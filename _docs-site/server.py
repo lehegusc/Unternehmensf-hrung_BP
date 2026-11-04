@@ -32,7 +32,7 @@ def build_tree(root_dir):
         if entry.startswith(".") or entry.startswith("_") or entry in IGNORE:
             continue
         full_path = os.path.join(root_dir, entry)
-        rel_path = os.path.relpath(full_path, CONTENT_DIR)
+        rel_path = os.path.relpath(full_path, CONTENT_DIR).replace(os.sep, "/")
         if os.path.isdir(full_path):
             children = build_tree(full_path)
             dirs.append({"name": entry, "path": rel_path, "type": "folder", "children": children})
@@ -43,8 +43,10 @@ def build_tree(root_dir):
 
 def read_md_file(rel_path):
     """Read a markdown file by its path relative to CONTENT_DIR."""
+    # Convert URL forward slashes to OS path separators (for Windows)
+    rel_path = rel_path.replace("/", os.sep)
     safe_path = os.path.normpath(os.path.join(CONTENT_DIR, rel_path))
-    if not safe_path.startswith(CONTENT_DIR):
+    if not safe_path.startswith(os.path.normpath(CONTENT_DIR)):
         return None
     if not os.path.isfile(safe_path):
         return None
@@ -130,6 +132,12 @@ def run():
         try:
             srv.serve_forever()
         except KeyboardInterrupt:
+            print("\n  Server stopped.")
+
+
+if __name__ == "__main__":
+    run()
+      except KeyboardInterrupt:
             print("\n  Server stopped.")
 
 
