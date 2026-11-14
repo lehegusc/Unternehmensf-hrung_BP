@@ -26,8 +26,8 @@
 | # | Schritt | Status | Ordner |
 |---|---------|--------|--------|
 | 1 | Mission, Werte & Ziele | **Phase A (Recherche) abgeschlossen** (02.11.2026). 5 Recherche-Dateien + Index in `01-mission-werte-ziele/`. Phase B (Analyse) steht an. | `01-mission-werte-ziele/` |
-| 2 | Umfeldanalyse (PESTLE, Megatrends) | Offen | `02-umfeldanalyse/` |
-| 3 | Branche & Wettbewerb (Five Forces, Strategische Gruppen) | Offen | `03-branche-wettbewerb/` |
+| 2 | Umfeldanalyse (PESTLE, Megatrends) | **Abgeschlossen** (12.11.2026). Zwei Dateien: (1) `recherche-megatrends.md` (~53.000 Zeichen, 85 Quellen, Top 3: Environment & Resources, Politics & Governance, Economics & Business, jeweils mit Chancen/Risiken). (2) `recherche-pestle.md` (~59.000 Zeichen, 135 Quellen aus 79 Domains, 6 PESTLE-Faktoren mit je 2-5 konkreten Beispielen und Chance/Risiko-Bewertung, Fokus nur Downstream). | `02-umfeldanalyse/` |
+| 3 | Branche & Wettbewerb (Five Forces, Strategische Gruppen) | **Five Forces abgeschlossen** (12.11.2026). `recherche-five-forces.md` (~49.000 Zeichen, 97 Quellen aus 83 Domains). Drei Schritte: Abgrenzen (globale Downstream-Branche, 3 Archetypen), Analysieren (5 Kräfte mit konkreten Belegen), Bewerten (Branchenattraktivität: gering bis mittel). Rivalität und Substitution als stärkste gewinnbegrenzende Kräfte. Strategische Gruppen stehen noch aus. | `03-branche-wettbewerb/` |
 | 4 | Ressourcen & Fähigkeiten (VRIO, Wertkette) | Offen | `04-ressourcen-faehigkeiten/` |
 | 5 | Strategie & Organisation | Offen | `05-strategie-organisation/` |
 | 6 | Synthese & Empfehlungen (SWOT) | Offen | `06-synthese/` |

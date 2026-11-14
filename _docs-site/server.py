@@ -137,9 +137,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-      except KeyboardInterrupt:
-            print("\n  Server stopped.")
-
-
-if __name__ == "__main__":
-    run()

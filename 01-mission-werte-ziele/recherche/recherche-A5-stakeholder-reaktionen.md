@@ -1,390 +1,390 @@
 ---
 
-# COMPREHENSIVE RESEARCH REPORT
-## BP Stakeholder Reactions to Purpose/Strategy Changes: The Fossil Fuel Pivot
-### *Prepared for University Group Project — Corporate Analysis*
-**Research date: November 2026 | Sources: Multiple web searches conducted across all stakeholder groups**
+# UMFASSENDER RECHERCHEBERICHT
+## BP Stakeholder-Reaktionen auf Purpose/Strategie-Änderungen: Der Schwenk zurück zu fossilen Brennstoffen
+### *Erstellt für ein universitäres Gruppenprojekt — Unternehmensanalyse*
+**Recherche-Datum: November 2026 | Quellen: Mehrere Web-Recherchen über alle Stakeholder-Gruppen hinweg**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-In **February 2025**, BP CEO Murray Auchincloss announced what the company called a **"fundamental reset"** of BP's strategy — scrapping its 50 GW renewables target, raising oil-and-gas investment by ~20% to ~$10 billion per year, and cutting low-carbon spending from over $5 billion to just $1.5–2 billion annually. The CEO's key phrase — *"we went too far, too fast"* — became the defining sound bite, widely cited in global media. [BBC News](https://www.bbc.com/news/articles/c3374ekd11po), [Energy Voice](https://www.energyvoice.com/markets/567575/bp-boss-we-went-too-far-too-fast-as-firm-slashes-low-carbon-investment-by-5bn/)
+Im **Februar 2025** kündigte BP-CEO Murray Auchincloss an, was das Unternehmen als **„fundamentalen Reset"** seiner Strategie bezeichnete: die Aufgabe des 50-GW-Erneuerbaren-Ziels, eine Erhöhung der Öl-und-Gas-Investitionen um ~20 % auf rund 10 Milliarden US-Dollar pro Jahr sowie eine Kürzung der Low-Carbon-Ausgaben von über 5 Milliarden auf nur noch 1,5–2 Milliarden US-Dollar jährlich. Der prägnante Satz des CEO — *„we went too far, too fast"* — wurde zum bestimmenden Zitat, das in internationalen Medien allgegenwärtig war. [BBC News](https://www.bbc.com/news/articles/c3374ekd11po), [Energy Voice](https://www.energyvoice.com/markets/567575/bp-boss-we-went-too-far-too-fast-as-firm-slashes-low-carbon-investment-by-5bn/)
 
-This reset — the reversal of Bernard Looney's 2020 "net zero by 2050" pivot — triggered dramatically divergent responses across stakeholder groups: broadly welcomed by financial markets and activist hedge funds, but condemned by climate NGOs, several institutional investors, and the general public.
+Dieser Reset — die Umkehr von Bernard Looneys „Net Zero by 2050"-Schwenk aus dem Jahr 2020 — löste bei den verschiedenen Stakeholder-Gruppen dramatisch unterschiedliche Reaktionen aus: Von den Finanzmärkten und aktivistischen Hedgefonds weitgehend begrüßt, aber von Klima-NGOs, mehreren institutionellen Investoren und der breiten Öffentlichkeit scharf verurteilt.
 
 ---
 
-## SECTION 1: INVESTOR & SHAREHOLDER REACTIONS
+## ABSCHNITT 1: REAKTIONEN VON INVESTOREN & AKTIONÄREN
 
-### 1.1 The February 2025 Strategy Announcement — Initial Market Reaction
+### 1.1 Die Strategie-Ankündigung vom Februar 2025 — Unmittelbare Marktreaktion
 
-The immediate share price reaction was mixed but the medium-term verdict was clearly **positive for financial investors**. Reports cite shares falling approximately **1.6%** immediately on the day of announcement in some accounts, while others record a **+1.48% rise** in early trading — suggesting uncertain intraday trading. However, the longer-term verdict was unambiguous: one market analysis report notes that BP's share price rose approximately **45% in the period following the February 2025 strategy reset**, as the fossil fuel focus resonated with income-seeking investors. [Investors Chronicle](https://www.investorschronicle.co.uk/content/467ca8f5-ac34-4c43-9f9d-dee21cc0272e)
+Die unmittelbare Reaktion des Aktienkurses war gemischt, das mittelfristige Urteil war jedoch eindeutig **positiv für Finanzinvestoren**. Berichten zufolge fiel der Kurs am Ankündigungstag in einigen Darstellungen um etwa **1,6 %**, während andere Quellen einen **+1,48 %-Anstieg** im frühen Handel verzeichnen — was auf unstetige Intraday-Bewegungen hindeutet. Das längerfristige Urteil war jedoch unmissverständlich: Einer Marktanalyse zufolge stieg der Aktienkurs von BP im Zeitraum nach dem Strategie-Reset vom Februar 2025 um rund **45 %**, da der Fokus auf fossile Brennstoffe bei renditeorientierten Investoren Anklang fand. [Investors Chronicle](https://www.investorschronicle.co.uk/content/467ca8f5-ac34-4c43-9f9d-dee21cc0272e)
 
-BP's own internal framing to shareholders was explicit. Murray Auchincloss told investors at the capital markets day in February 2025:
-> *"In February, we announced a fundamental reset of our strategy – to grow the upstream, focus the downstream and invest with discipline in the transition – and we have already made significant progress."* [Ground News](https://ground.news/article/bp-making-significant-progress-on-fossil-fuel-strategy)
+BP's eigene interne Kommunikation gegenüber den Aktionären war explizit. Murray Auchincloss sagte den Investoren beim Capital Markets Day im Februar 2025:
+> *„In February, we announced a fundamental reset of our strategy – to grow the upstream, focus the downstream and invest with discipline in the transition – and we have already made significant progress."* (Im Februar haben wir einen grundlegenden Reset unserer Strategie angekündigt — mit dem Ziel, das Upstream-Geschäft auszubauen, das Downstream-Segment zu fokussieren und diszipliniert in die Transition zu investieren — und wir haben bereits erhebliche Fortschritte erzielt.) [Ground News](https://ground.news/article/bp-making-significant-progress-on-fossil-fuel-strategy)
 
-### 1.2 Elliott Management — The Activist Catalyst
+### 1.2 Elliott Management — Der aktivistische Katalysator
 
-The single most important investor force behind the strategy reset was **Elliott Management Corporation** (also referenced as "Elliott Investment Management"), the US activist hedge fund. Key facts:
+Die bei weitem bedeutendste Investorenkraft hinter dem Strategie-Reset war **Elliott Management Corporation** (auch als „Elliott Investment Management" bezeichnet), der US-amerikanische aktivistische Hedgefonds. Wichtige Fakten:
 
-- Elliott acquired a **significant stake** in BP in **February 2025** — the same month as the strategy announcement — making the timing highly significant. [Economic Times](https://economictimes.indiatimes.com/topic/bp-company-news/news)
-- Elliott's campaign focused on: **boosting free cash flow, divesting the renewables business, improving capital returns, and cutting costs**. [Semafor](https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant)
-- Elliott explicitly pushed BP to **"focus on its legacy oil and gas business and pivot away from a failed foray into renewables"**, according to Bloomberg sources. [Yahoo Finance](https://finance.yahoo.com/energy/articles/bp-ceo-meg-oneill-vows-125922826.html)
-- Academic analysis of the Elliott-BP dynamic: Oxford University's *Cambridge Journal of Economics* published a paper in 2026 titled *"An oil major, a hedge fund and the climate crisis"*, examining Elliott's positional power against BP. [OUP Academic](https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/beag035/9003625)
-- By 2026, Elliott reportedly explored pushing for a **company breakup** (separation of upstream from downstream), though BP's CEO categorically denied this. [Semafor](https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant)
+- Elliott erwarb im **Februar 2025** — demselben Monat wie die Strategie-Ankündigung — eine **bedeutende Beteiligung** an BP, was den Zeitpunkt hochgradig bedeutsam macht. [Economic Times](https://economictimes.indiatimes.com/topic/bp-company-news/news)
+- Elliotts Kampagne fokussierte sich auf: **Steigerung des freien Cashflows, Veräußerung des Erneuerbaren-Geschäfts, Verbesserung der Kapitalrenditen und Kostensenkungen**. [Semafor](https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant)
+- Elliott drängte BP laut Bloomberg-Quellen explizit dazu, sich **„auf sein angestammtes Öl-und-Gas-Geschäft zu konzentrieren und sich von einem gescheiterten Ausflug in die Erneuerbaren abzuwenden"**. [Yahoo Finance](https://finance.yahoo.com/energy/articles/bp-ceo-meg-oneill-vows-125922826.html)
+- Akademische Analyse der Elliott-BP-Dynamik: Die *Cambridge Journal of Economics* der Oxford University veröffentlichte 2026 einen Aufsatz mit dem Titel *„An oil major, a hedge fund and the climate crisis"*, der Elliotts Positionsmacht gegenüber BP untersucht. [OUP Academic](https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/beag035/9003625)
+- Bis 2026 erwog Elliott Berichten zufolge, auf eine **Aufspaltung des Unternehmens** (Trennung von Upstream und Downstream) zu drängen, obwohl BPs CEO dies kategorisch bestritt. [Semafor](https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant)
 
-### 1.3 Follow This — Activist Climate Shareholders
+### 1.3 Follow This — Aktivistische Klimaaktionäre
 
-**Follow This** is a Dutch NGO-style activist shareholder group that files climate resolutions at oil major AGMs. Their specific BP interventions:
+**Follow This** ist eine niederländische, NGO-artige aktivistische Aktionärsgruppe, die auf den AGMs der Ölkonzerne Klimaresolutionen einreicht. Ihre konkreten Interventionen bei BP:
 
-- In **early 2026**, Follow This submitted a resolution asking BP to report on how it would **"protect shareholder value" in a scenario where demand for oil and gas declines**. [Board Agenda](https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s)
-- BP **blocked this resolution** from being circulated for the 2026 AGM agenda — citing legal advice that it was not a valid resolution because it would be ineffective as a direction to the board. This set a **significant UK precedent**. [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/)
-- The decision to block prompted proxy adviser **Glass Lewis** to recommend voting **against** chair Albert Manifold's re-election. [Board Agenda](https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s)
-- Follow This threatened **legal action** if BP continued to exclude the resolution. [Board Agenda](https://boardagenda.com/page/23/?disciplines=9&page=6&search=tag+heuer&wtime=229s)
+- Anfang **2026** reichte Follow This eine Resolution ein, in der BP aufgefordert wurde, zu berichten, wie das Unternehmen **„den Aktionärswert schützen" würde in einem Szenario, in dem die Nachfrage nach Öl und Gas sinkt**. [Board Agenda](https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s)
+- BP **blockierte diese Resolution** und verhinderte ihre Aufnahme in die Tagesordnung der AGM 2026 — mit der Begründung, sie sei laut Rechtsberatung keine gültige Resolution, da sie als Weisung an den Board wirkungslos wäre. Dies setzte einen **bedeutenden britischen Präzedenzfall**. [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/)
+- Die Entscheidung, die Resolution zu blockieren, veranlasste den Stimmrechtsberater **Glass Lewis**, eine Gegenstimme zur Wiederwahl von Chairman Albert Manifold zu empfehlen. [Board Agenda](https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s)
+- Follow This drohte mit **rechtlichen Schritten**, sollte BP die Resolution weiterhin ausschließen. [Board Agenda](https://boardagenda.com/page/23/?disciplines=9&page=6&search=tag+heuer&wtime=229s)
 
-### 1.4 ACCR — The Capital Discipline Resolution
+### 1.4 ACCR — Die Kapitaldisziplin-Resolution
 
-The **Australasian Centre for Corporate Responsibility (ACCR)** filed **Resolution 24** at BP's **2026 AGM** (April 23, 2026). This resolution asked BP to disclose that:
-- New upstream projects are **cost-competitive**
-- They are **resilient to execution risk**
-- They are supported by a **clear assessment of expected returns**
+Das **Australasian Centre for Corporate Responsibility (ACCR)** reichte auf der **AGM 2026** von BP (23. April 2026) **Resolution 24** ein. Diese Resolution forderte BP auf offenzulegen, dass:
+- Neue Upstream-Projekte **wettbewerbsfähige Kosten** aufweisen
+- Sie **robust gegenüber Ausführungsrisiken** sind
+- Sie durch eine **klare Bewertung der erwarteten Renditen** unterstützt werden
 
-This was framed not as a stop-drilling demand but as a capital discipline transparency ask. Results:
-- Resolution 24 received **25.85–25.86% of votes cast** against the board's recommendation. [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
-- ACCR said this built on the **2019 Climate Action 100+ resolution** and that investors supporting it were still waiting for evidence six months after the AGM. [ACCR](https://www.accr.org.au/insights/investor-bulletin-what-investors-should-expect-from-bps-response-to-resolution-24-on-capital-discipline/)
-- LAPFF (Local Authority Pension Fund Forum) noted it had supported the resolution, which received "over 28% support" in its engagement report. [LAPFF](https://www.lapfforum.org/engagements/lapff-q2-2026-quarterly-engagement-report/)
+Die Resolution wurde nicht als Bohr-Stopp-Forderung formuliert, sondern als Transparenz-Anfrage zur Kapitaldisziplin. Ergebnisse:
+- Resolution 24 erhielt **25,85–25,86 % der abgegebenen Stimmen** entgegen der Empfehlung des Boards. [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
+- ACCR erklärte, dies baue auf der **Climate Action 100+-Resolution von 2019** auf, und dass unterstützende Investoren sechs Monate nach der AGM noch immer auf Belege warteten. [ACCR](https://www.accr.org.au/insights/investor-bulletin-what-investors-should-expect-from-bps-response-to-resolution-24-on-capital-discipline/)
+- Das LAPFF (Local Authority Pension Fund Forum) stellte fest, es habe die Resolution unterstützt, die laut seinem Engagement-Bericht „über 28 % Unterstützung" erhalten habe. [LAPFF](https://www.lapfforum.org/engagements/lapff-q2-2026-quarterly-engagement-report/)
 
-### 1.5 The 2026 AGM — Broader Governance Revolt
+### 1.5 Die AGM 2026 — Breiterer Corporate-Governance-Aufstand
 
-The April 23, 2026 AGM was a flashpoint for multiple overlapping concerns:
+Die AGM vom 23. April 2026 war ein Brennpunkt für mehrere sich überlagernde Bedenken:
 
-- **Helge Lund** (predecessor chair): received a **near-25% vote against re-election** at the 2025 AGM amid conflicting shareholder pressure over climate strategy. [Energy Reader](https://energyreader.io/brief/15899)
-- **Albert Manifold** (incoming chair, appointed 2025): received only ~82% support at the 2026 AGM — a significant protest vote for a FTSE 100 chair, linked to the Follow This blocking controversy.
-- **Resolution 23**: A management-proposed resolution that would have **revoked existing climate reporting requirements** (specifically the 2019 and 2015 resolutions) was **rejected** by shareholders with only 47.47% support — meaning the **majority blocked the weakening of climate disclosure**. This is a notable case of shareholders defending climate transparency *against* management wishes. [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
-- Two other management-proposed resolutions (including one to allow online-only meetings) also failed — highly unusual at a company BP's scale. [Directors Institute](https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit)
-- BP's own official response acknowledged: *"The board acknowledges that the voting outcomes reflected meaningful shareholder concerns, including in relation to governance, transparency and shareholder engagement."* [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
+- **Helge Lund** (Vorgänger als Chairman): erhielt auf der AGM 2025 ein **Votum von fast 25 % gegen seine Wiederwahl** inmitten widerstreitender Aktionärsdrucks zur Klimastrategie. [Energy Reader](https://energyreader.io/brief/15899)
+- **Albert Manifold** (neu bestellter Chairman, ernannt 2025): erhielt auf der AGM 2026 nur ~82 % Zustimmung — ein deutliches Protestvotum für einen FTSE-100-Chairman, das mit der Follow-This-Blockierungskontroverse in Zusammenhang stand.
+- **Resolution 23**: Eine vom Management eingebrachte Resolution, die bestehende **Klimaberichterstattungspflichten aufgehoben** hätte (konkret die Resolutionen von 2019 und 2015), wurde von den Aktionären mit nur 47,47 % Zustimmung **abgelehnt** — das heißt, die **Mehrheit verhinderte eine Aufweichung der Klimatransparenz**. Dies ist ein bemerkenswerter Fall, in dem Aktionäre Klimatransparenz *gegen* den Willen des Managements verteidigten. [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
+- Zwei weitere vom Management vorgeschlagene Resolutionen (darunter eine zur Ermöglichung reiner Online-Hauptversammlungen) scheiterten ebenfalls — für ein Unternehmen in BPs Größenordnung höchst ungewöhnlich. [Directors Institute](https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit)
+- BPs eigene offizielle Reaktion räumte ein: *„The board acknowledges that the voting outcomes reflected meaningful shareholder concerns, including in relation to governance, transparency and shareholder engagement."* (Der Board erkennt an, dass die Abstimmungsergebnisse substanzielle Aktionärsbedenken widerspiegelten, auch in Bezug auf Governance, Transparenz und Aktionärsdialog.) [BP.com](https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results)
 
 ### 1.6 Legal & General Investment Management (LGIM)
 
-LGIM announced on **April 19, 2026** that it would:
-1. Vote **against** Albert Manifold's re-election as chair
-2. Vote **against** BP's plans to cut back on climate reporting
+LGIM kündigte am **19. April 2026** an, dass es:
+1. **Gegen** die Wiederwahl von Albert Manifold als Chairman stimmen würde
+2. **Gegen** BPs Pläne zur Kürzung der Klimaberichterstattung stimmen würde
 
-LGIM's stated reasoning (from Royal London Asset Management, a similar investor with comparable engagement): *"Following BP's 2025 strategic reset, we sought evidence that higher oil and gas investment remained consistent with its climate commitments and long-term value creation. Despite extensive engagement, including direct dialogue with BP's Senior Independent Director, we remained concerned."* [RLAM](https://www.rlam.com/international/our-views/2026/climate-commitments-are-easy.-delivery-is-harder/) LGIM then **voted against the re-election of the Chair** of BP.
+LGIMs offiziell erklärte Begründung (zitiert von Royal London Asset Management, einem ähnlichen Investor mit vergleichbarem Engagement): *„Following BP's 2025 strategic reset, we sought evidence that higher oil and gas investment remained consistent with its climate commitments and long-term value creation. Despite extensive engagement, including direct dialogue with BP's Senior Independent Director, we remained concerned."* (Nach BPs strategischem Reset 2025 haben wir nach Belegen gesucht, dass höhere Öl-und-Gas-Investitionen mit den Klimaverpflichtungen und der langfristigen Wertschöpfung vereinbar bleiben. Trotz intensiver Gespräche, einschließlich direktem Dialog mit BPs Senior Independent Director, blieben wir besorgt.) [RLAM](https://www.rlam.com/international/our-views/2026/climate-commitments-are-easy.-delivery-is-harder/) LGIM **stimmte daraufhin gegen die Wiederwahl des Chairmen** von BP.
 
-### 1.7 Institutional Investors — Broadly Supportive But With Caveats
+### 1.7 Institutionelle Investoren — Weitgehend unterstützend, aber mit Vorbehalten
 
-**BlackRock** (~9% stake) and **Vanguard** (~5% stake) remained as major institutional owners. Neither made prominent public statements opposing the strategy reset:
-- BlackRock had already **withdrawn from Climate Action 100+** in early 2024, citing legal considerations. [Fidelity News](https://www.fidelity.com/news/article/company-news/202610072032RTRSNEWSCOMBINED_KBN3VN1IR-OUSBS_1)
-- Vanguard was never a CA100+ member.
-- BP itself stated: *"We have met with most of our major shareholders recently and continue to receive support for our strategy."* [National Review](https://www.nationalreview.com/corner/another-green-waste/)
+**BlackRock** (~9 % Anteil) und **Vanguard** (~5 % Anteil) blieben als bedeutende institutionelle Eigentümer an Bord. Keiner von beiden veröffentlichte prominente Stellungnahmen gegen den Strategie-Reset:
+- BlackRock hatte sich bereits Anfang 2024 unter Berufung auf rechtliche Erwägungen aus **Climate Action 100+** zurückgezogen. [Fidelity News](https://www.fidelity.com/news/article/company-news/202610072032RTRSNEWSCOMBINED_KBN3VN1IR-OUSBS_1)
+- Vanguard war nie Mitglied von CA100+.
+- BP selbst erklärte: *„We have met with most of our major shareholders recently and continue to receive support for our strategy."* (Wir haben uns kürzlich mit den meisten unserer größten Aktionäre getroffen und erhalten weiterhin Unterstützung für unsere Strategie.) [National Review](https://www.nationalreview.com/corner/another-green-waste/)
 
-**Sarasin & Partners** wrote explicitly on the precedent set by BP blocking the Follow This resolution: *"In March BP set a new precedent for the UK by refusing to circulate a climate-related shareholder resolution for its 2026 AGM."* [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/) — framing this as a threat to **voting rights** more broadly.
+**Sarasin & Partners** äußerten sich explizit zum Präzedenzfall, den BP mit der Blockierung der Follow-This-Resolution gesetzt hat: *„In March BP set a new precedent for the UK by refusing to circulate a climate-related shareholder resolution for its 2026 AGM."* (Im März setzte BP einen neuen Präzedenzfall für das Vereinigte Königreich, indem das Unternehmen sich weigerte, eine klimabezogene Aktionärsresolution für seine AGM 2026 zu verteilen.) [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/) — mit der Rahmung, dies stelle eine breitere Bedrohung für **Stimmrechte** dar.
 
 ---
 
-## SECTION 2: NGO & ENVIRONMENTAL GROUP REACTIONS
+## ABSCHNITT 2: REAKTIONEN VON NGOS & UMWELTGRUPPEN
 
-### 2.1 General Response to the February 2025 Reset
+### 2.1 Allgemeine Reaktion auf den Reset vom Februar 2025
 
-AP's wire report captured the dual nature of the announcement: the strategy change *"hopes will bolster its flagging share price but has been met with incredulity from climate action campaigners."* [Post Journal / AP](https://www.post-journal.com/wire/?category=5216&ID=357336)
+Der AP-Nachrichtendienst fasste die Doppelnatur der Ankündigung treffend zusammen: Die Strategieänderung *„hopes will bolster its flagging share price but has been met with incredulity from climate action campaigners"* (werde hoffentlich den strauchelnden Aktienkurs stützen, sei von Klimaaktivisten jedoch mit Unglauben aufgenommen worden). [Post Journal / AP](https://www.post-journal.com/wire/?category=5216&ID=357336)
 
-### 2.2 ClientEarth — The Greenwashing Precedent-Setter
+### 2.2 ClientEarth — Der Greenwashing-Präzedenzfall-Setzer
 
-ClientEarth has the longest and most legally significant engagement with BP:
+ClientEarth verfügt über das längste und rechtlich bedeutsamste Engagement gegenüber BP:
 
-**The 2019 OECD Complaint (Filed December 2019):**
-- ClientEarth filed a **world-first** complaint to the UK National Contact Point for the OECD Guidelines, alleging BP's **"Keep Advancing" and "Possibilities Everywhere"** advertising campaigns (launched January 2019, ~$100M budget) were misleading.
-- The complaint stated BP was **"spending 96% of its annual expenditure on oil and gas"** while advertising as a clean energy company. [ClientEarth](https://www.clientearth.org/latest/news/clientearth-launches-complaint-against-bp-s-climate-greenwashing-adverts/)
-- ClientEarth argued the ads gave *"a false impression of the scale of its renewable and low-carbon business and downplayed the company's fossil-fuel dependence."*
-- **Result**: BP withdrew the advertising campaign in **February 2020** (coinciding with Bernard Looney's net-zero announcement). The NCP declined to continue the complaint as the ads had been pulled, but described the matter as **"substantiated in principle"** — setting a legal precedent. [Gov.UK NCP](https://www.gov.uk/government/publications/client-earth-complaint-to-the-uk-ncp-about-bp/initial-assessment-clientearth-complaint-to-the-uk-ncp-about-bp), [ClientEarth](https://www.clientearth.org/latest/press-office/bp-greenwashing-complaint-sets-precedent-for-action-on-misleading-ad-campaigns/)
-- ClientEarth described this as *"a world-first complaint"* and used the BP case as a template for subsequent fossil fuel greenwashing challenges. [ClientEarth](https://www.clientearth.org/projects/the-greenwashing-files/)
+**Die OECD-Beschwerde von 2019 (eingereicht Dezember 2019):**
+- ClientEarth reichte beim UK National Contact Point für die OECD-Leitsätze eine **weltweit erste** Beschwerde ein, in der behauptet wurde, BPs Werbekampagnen **„Keep Advancing"** und **„Possibilities Everywhere"** (gestartet Januar 2019, Budget ~100 Mio. USD) seien irreführend.
+- Die Beschwerde stellte fest, BP **„gebe 96 % seiner jährlichen Ausgaben für Öl und Gas aus"**, werbe sich jedoch als sauberes Energieunternehmen. [ClientEarth](https://www.clientearth.org/latest/news/clientearth-launches-complaint-against-bp-s-climate-greenwashing-adverts/)
+- ClientEarth argumentierte, die Werbung vermittle *„einen falschen Eindruck vom Ausmaß des Erneuerbaren-und-Low-Carbon-Geschäfts und spielte die Abhängigkeit des Unternehmens von fossilen Brennstoffen herunter"*.
+- **Ergebnis**: BP zog die Werbekampagne im **Februar 2020** zurück (zeitgleich mit Bernard Looneys Net-Zero-Ankündigung). Der NCP stellte das Verfahren ein, da die Anzeigen zurückgezogen worden waren, beschrieb die Angelegenheit jedoch als **„dem Grunde nach begründet"** — was einen rechtlichen Präzedenzfall schuf. [Gov.UK NCP](https://www.gov.uk/government/publications/client-earth-complaint-to-the-uk-ncp-about-bp/initial-assessment-clientearth-complaint-to-the-uk-ncp-about-bp), [ClientEarth](https://www.clientearth.org/latest/press-office/bp-greenwashing-complaint-sets-precedent-for-action-on-misleading-ad-campaigns/)
+- ClientEarth bezeichnete dies als *„weltweit erste Beschwerde"* und nutzte den BP-Fall als Vorlage für nachfolgende Greenwashing-Herausforderungen im Bereich fossile Brennstoffe. [ClientEarth](https://www.clientearth.org/projects/the-greenwashing-files/)
 
-**German Court Victory (September 2024):**
-- The **Hamburg Regional Court** held in September 2024 that BP was **not allowed to continue to advertise certain products** (lubricants, engine oil) as **"climate neutral"** or use the label **"certified carbon neutral product."** This represented a concrete legal win for the anti-greenwashing movement. [Peters & Peters](https://www.petersandpeters.com/case/german-environmental-ngo-files-greenwashing-claim-against-bp/)
+**Sieg vor deutschem Gericht (September 2024):**
+- Das **Hamburger Landgericht** entschied im September 2024, dass BP bestimmte Produkte (Schmierstoffe, Motoröl) nicht länger als **„klimaneutral"** bewerben oder das Label **„certified carbon neutral product"** verwenden darf. Dies war ein konkreter Rechtssieg für die Anti-Greenwashing-Bewegung. [Peters & Peters](https://www.petersandpeters.com/case/german-environmental-ngo-files-greenwashing-claim-against-bp/)
 
 ### 2.3 Greenpeace
 
-Greenpeace consistently challenged BP's climate claims:
-- Continued public campaigns framing BP's "Beyond Petroleum" and later transition claims as greenwashing
-- The Morning Star newspaper (quoting Greenpeace-adjacent voices) called BP's pivot obscene, stating: *"BP must be judged by its actions, not its advertising."* [Morning Star](https://morningstaronline.co.uk/article/war-pays-bp-billions)
-- In the North Sea context, Greenpeace Senior Campaigner Philip Evans said: *"Approving Rosebank would only deepen this injustice – handing billions more to Shell while trapping us deeper into the doom loop of climate breakdown."* [Evening Standard](https://www.standard.co.uk/business/business-news/shell-john-healey-simon-francis-iran-b1302747.html)
+Greenpeace stellte BPs Klimabehauptungen konsequent in Frage:
+- Fortgesetzte öffentliche Kampagnen, die BPs „Beyond Petroleum"-Botschaft und spätere Transition-Ansprüche als Greenwashing rahmten
+- Die Morning Star-Zeitung (mit Stimmen aus dem Greenpeace-Umfeld) nannte BPs Schwenk obszön und erklärte: *„BP must be judged by its actions, not its advertising."* (BP muss an seinen Taten gemessen werden, nicht an seiner Werbung.) [Morning Star](https://morningstaronline.co.uk/article/war-pays-bp-billions)
+- Im Nordsee-Kontext sagte Greenpeace-Senior-Campaigner Philip Evans: *„Approving Rosebank would only deepen this injustice – handing billions more to Shell while trapping us deeper into the doom loop of climate breakdown."* (Die Genehmigung von Rosebank würde diese Ungerechtigkeit nur vertiefen — Shell weitere Milliarden zuschanzen und uns tiefer in den Teufelskreis des Klimazusammenbruchs drängen.) [Evening Standard](https://www.standard.co.uk/business/business-news/shell-john-healey-simon-francis-iran-b1302747.html)
 
 ### 2.4 Friends of the Earth
 
-Friends of the Earth's climate campaigners responded directly to BP's results and strategy:
-- On BP's Q3 2026 record profits: *"We must break our dependency on expensive oil and gas, whose prices yo-yo with every global shock."* [Yahoo Finance](https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-mideast-104238751.html)
-- Joined Greenpeace in 2024 in a **joint letter** warning about cumulative impacts of North Sea drilling, aviation expansion, and weaker EV targets. [Yahoo News](https://uk.news.yahoo.com/burnham-danger-sleepwalking-climate-disaster-070006646.html)
+Die Klimakampagner von Friends of the Earth reagierten direkt auf BPs Ergebnisse und Strategie:
+- Zu BPs Rekordgewinnen im Q3 2026: *„We must break our dependency on expensive oil and gas, whose prices yo-yo with every global shock."* (Wir müssen unsere Abhängigkeit von teurem Öl und Gas beenden, dessen Preise bei jedem globalen Schock auf und ab schießen.) [Yahoo Finance](https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-mideast-104238751.html)
+- Schloss sich Greenpeace 2024 in einem **gemeinsamen Brief** an, der vor den kumulativen Auswirkungen von Nordsee-Bohrungen, Luftfahrtexpansion und schwächeren E-Auto-Zielen warnte. [Yahoo News](https://uk.news.yahoo.com/burnham-danger-sleepwalking-climate-disaster-070006646.html)
 
-### 2.5 New York City Greenwashing Lawsuit (2021–2026)
+### 2.5 Greenwashing-Klage der Stadt New York (2021–2026)
 
-New York City brought a lawsuit in April 2021 against **ExxonMobil, Shell, and BP** alleging greenwashing under municipal consumer protection laws, claiming they misled consumers about the environmental benefits of fossil fuels. **Result**: The New York Supreme Court's Appellate Division **unanimously upheld dismissal** in October 2026, finding *"no evidence of deceptive greenwashing"* and ruling the city's arguments contradictory — specifically that *climate-aware customers of... BP weren't reasonably duped."* [Courthouse News](https://www.courthousenews.com/nyc-climate-change-suit-against-big-oil-runs-out-of-gas), [Business & Human Rights Centre](https://www.business-humanrights.org/en/latest-news/usa-appeals-court-rejects-citys-greenwashing-lawsuit-against-exxonmobil-shell-and-bp/)
+Die Stadt New York erhob im April 2021 Klage gegen **ExxonMobil, Shell und BP** wegen Greenwashings nach kommunalem Verbraucherschutzrecht mit der Behauptung, sie hätten Verbraucher über die Umweltvorteile fossiler Brennstoffe in die Irre geführt. **Ergebnis**: Die Appellate Division des New York Supreme Court **bestätigte die Abweisung einstimmig** im Oktober 2026 mit der Feststellung, es gebe *„no evidence of deceptive greenwashing"* (keine Belege für täuschendes Greenwashing), und erklärte die Argumente der Stadt für widersprüchlich — konkret, dass *klimabewusste Kunden von ... BP nicht in vernünftiger Weise getäuscht worden seien*. [Courthouse News](https://www.courthousenews.com/nyc-climate-change-suit-against-big-oil-runs-out-of-gas), [Business & Human Rights Centre](https://www.business-humanrights.org/en/latest-news/usa-appeals-court-rejects-citys-greenwashing-lawsuit-against-exxonmobil-shell-and-bp/)
 
-### 2.6 California Climate Lawsuit
+### 2.6 Klimaklage in Kalifornien
 
-California's Attorney General filed an amended complaint in June 2024 in an ongoing lawsuit (originally filed September 2023) against Exxon Mobil, Shell, BP, ConocoPhillips, Chevron, and the American Petroleum Institute, alleging a *"decades-long campaign of deception"* by attempting to mask the connection between climate change and fossil fuel combustion. This case was still active as of late 2024. [ESG Dive](https://www.esgdive.com/news/big-oil-loses-bid-to-dismiss-california-greenwashing-suits/729759/)
-
----
-
-## SECTION 3: EMPLOYEE PERSPECTIVES
-
-### 3.1 Senior BP Exploration Team — The "Climate Revolution" Exodus
-
-The most striking early employee impact was a near-total decimation of BP's traditional oil exploration workforce — *before* the 2025 strategy reset — during the Looney era:
-- BP's geologists, engineers, and scientists were **cut from over 700 to fewer than 100**, per Reuters reporting. Sources inside the company described the atmosphere as **"brutal"** and the pace of change as **"incredibly fast."** [The Wire Science / Reuters](https://science.thewire.in/economy/energy/bps-oil-exploration-team-swept-aside-in-climate-revolution/)
-- This created a human capital risk when BP then tried to reverse course in 2025 — many of those skills and staff were gone.
-
-### 3.2 Low Carbon Energy Division — Strategic Reassignment
-
-With the 2025 strategy reset:
-- Annual renewable energy investment was **slashed from over $5 billion to $1.5–2 billion**. [PiqMarkets](https://piqmarkets.com/story/bp-flags-up-to-5bn-write-down-as-it-pivots-from-green-energy)
-- BP's structural reorganization placed: *"Renewable businesses, including solar and offshore wind, will sit within the Technology function as BP continues to advance a capital-light model in these areas."* [Yahoo Finance/BP statement](https://finance.yahoo.com/energy/articles/bp-slashes-debt-175618389.html)
-- BP sold its **US onshore wind business** to LS Power in **December 2025** (1.3 GW of net capacity from 10 projects). [Tickerscout/BP 20-F](https://tickerscout.ai/bp/narrative/)
-- BP proceeded to **write down Lightsource bp (solar) and offshore wind** assets, with impairments of **$3–$4.5 billion** relating to transition businesses announced in Q3 2026. [Reuters](https://www.reuters.com/business/energy/bp-expects-significantly-higher-gas-trading-third-quarter-2026-10-13/), [BP Q3 2026 statement](https://www.investegate.co.uk/announcement/rns/bp--bp./3q26-bp-plc-part-1-of-1/9849203)
-- No specific verified headcount figure for low-carbon division redundancies in 2024–2025 was found in the public domain.
-
-### 3.3 Internal Leadership Acknowledgment of Change Fatigue
-
-BP's own internal HR podcast (Insight222, October 2026) revealed management awareness of morale pressure: *"When you're going through so much change, which we are, it's really important that we think about how you keep people safe, [ensure] they get paid, make sure they have a great place to work... looking after people's health and wellbeing."* [Insight222](https://www.insight222.com/podcasts/how-bp-is-writing-the-next-chapter-discussing-transformation-and-technology)
-
-### 3.4 United Steelworkers Lockout — BP Whiting Refinery, Indiana (2026)
-
-A severe and prolonged **industrial dispute** emerged at BP's Whiting, Indiana refinery in 2026 — not directly linked to the green strategy pivot but illustrating broader labor tensions:
-- BP **locked out approximately 800–1,000 United Steelworkers (USW) members** at its Whiting refinery in early 2026. By October 2026, the lockout had lasted **over 218 days (7+ months)**. [In These Times](https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers), [Fox 32 Chicago](https://www.fox32chicago.com/news/bp-whiting-refinery-lockout-reaches-day-221-workers-struggle-make-ends-meet)
-- BP **opposed workers' unemployment benefit claims** during the lockout — described by one worker as *"They're Trying to Starve Us."* Workers faced acute financial distress. [In These Times](https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers)
-- A key sticking point was BP's attempt to contract out **60–100 in-house craft worker jobs**. [The Militant](https://themilitant.com/2026/10/09/solidarity-with-bp-oil-workers-locked-out-for-over-6-months/)
-- German outlet Gn-Online reported in October 2026: *"Stellenabbau bei BP in Lingen: So bewertet Betriebsrat die Situation"* — indicating works council (Betriebsrat) concerns about job cuts at BP's Lingen operations in Germany. [GN-Online](https://www.gn-online.de/nachrichten/betriebsraete-tt105003.html) *(⚠️ Uncertain: full article behind paywall — confirms awareness but full details unavailable.)*
+Der Generalstaatsanwalt von Kalifornien reichte im Juni 2024 eine geänderte Klageschrift in einem laufenden Verfahren (ursprünglich im September 2023 eingereicht) gegen Exxon Mobil, Shell, BP, ConocoPhillips, Chevron und das American Petroleum Institute ein, in der eine *„jahrzehntelange Täuschungskampagne"* behauptet wurde, mit der die Verbindung zwischen Klimawandel und Verbrennung fossiler Brennstoffe verschleiert worden sei. Das Verfahren war Ende 2024 noch aktiv. [ESG Dive](https://www.esgdive.com/news/big-oil-loses-bid-to-dismiss-california-greenwashing-suits/729759/)
 
 ---
 
-## SECTION 4: MEDIA & PUBLIC PERCEPTION
+## ABSCHNITT 3: MITARBEITERPERSPEKTIVEN
 
-### 4.1 "Beyond Petroleum" — The Historical Frame
+### 3.1 Das Senior-Explorationsteam von BP — Der Exodus der „Klimarevolution"
 
-The 2000–2010 "Beyond Petroleum" rebranding (run through Ogilvy & Mather, which won a Gold Effie in 2007) is now universally used by journalists as the frame through which to critique BP's 2025 pivot:
+Die auffälligste frühe Auswirkung auf die Belegschaft war eine nahezu vollständige Dezimierung der traditionellen Öl-Explorationsmannschaft von BP — *noch vor* dem Strategie-Reset 2025 — während der Looney-Ära:
+- BPs Geologen, Ingenieure und Wissenschaftler wurden laut Reuters-Berichten **von über 700 auf weniger als 100 reduziert**. Insider des Unternehmens beschrieben die Atmosphäre als **„brutal"** und das Veränderungstempo als **„unglaublich schnell"**. [The Wire Science / Reuters](https://science.thewire.in/economy/energy/bps-oil-exploration-team-swept-aside-in-climate-revolution/)
+- Dies schuf ein Humankapitalrisiko, als BP 2025 versuchte, den Kurs umzukehren — viele dieser Fähigkeiten und Mitarbeiter waren schlicht weg.
 
-- **Canny Creative's Brand Atlas**: *"'Beyond Petroleum' ran from 2000 to around 2010... Critics said it overstated the business... In 2025 the company reset again."* [Canny Creative](https://www.canny-creative.com/atlas/brand/bp/)
-- **Stratrix**: *"'Beyond Petroleum' Was a Logo, Not a Strategy... In 2000, BP spent $200 million telling the world it was no longer an oil company."* [Stratrix](https://www.stratrix.com/reversals/bp-s-renewables-retreat-and-deepwater)
-- **HuffPost headline** (archival): "BP Proves Beyond Petroleum Was Greenwashing" — demonstrating how the brand journey is now framed as a single fraudulent arc. [HuffPost](https://www.huffpost.com/impact/topic/bp?page=197)
-- Fortune's July 2025 long-form feature: *"'Too far, too fast': BP's painful retreat from the renewables it once championed"* — the title itself encapsulates the dominant media narrative. [Fortune](https://fortune.com/article/bp-ceo-murray-auchincloss-gas-clean-energy-big-oil-bernard-looney/)
+### 3.2 Low-Carbon-Energiesparte — Strategische Neuausrichtung
 
-### 4.2 Dominant Media Frames in 2025
+Mit dem Strategie-Reset 2025:
+- Die jährlichen Investitionen in erneuerbare Energien wurden **von über 5 Milliarden auf 1,5–2 Milliarden US-Dollar gekürzt**. [PiqMarkets](https://piqmarkets.com/story/bp-flags-up-to-5bn-write-down-as-it-pivots-from-green-energy)
+- BPs strukturelle Reorganisation sah vor: *„Renewable businesses, including solar and offshore wind, will sit within the Technology function as BP continues to advance a capital-light model in these areas."* (Die Erneuerbaren-Geschäfte, einschließlich Solar und Offshore-Wind, werden der Technologie-Funktion zugeordnet, während BP in diesen Bereichen weiterhin ein kapitalschonendes Modell verfolgt.) [Yahoo Finance/BP-Statement](https://finance.yahoo.com/energy/articles/bp-slashes-debt-175618389.html)
+- BP verkaufte im **Dezember 2025** sein **US-Onshore-Windgeschäft** an LS Power (1,3 GW Nettoleistung aus 10 Projekten). [Tickerscout/BP 20-F](https://tickerscout.ai/bp/narrative/)
+- BP nahm **Wertminderungen auf Lightsource bp (Solar) und Offshore-Wind**-Assets vor, mit im Q3 2026 angekündigten Impairments von **3–4,5 Milliarden US-Dollar** im Zusammenhang mit Transition-Geschäften. [Reuters](https://www.reuters.com/business/energy/bp-expects-significantly-higher-gas-trading-third-quarter-2026-10-13/), [BP Q3 2026 Statement](https://www.investegate.co.uk/announcement/rns/bp--bp./3q26-bp-plc-part-1-of-1/9849203)
+- Keine spezifische, verifizierte Mitarbeiterzahl für Stellenabbau in der Low-Carbon-Sparte in den Jahren 2024–2025 wurde im öffentlichen Bereich gefunden.
 
-Multiple frames competed:
-1. **"Return to common sense"**: Conservative media (National Review, etc.) framed the reset as vindication, noting that BP's foray into renewables had been loss-making. *"Another Green Waste"* was a representative National Review headline. [National Review](https://www.nationalreview.com/corner/another-green-waste/)
-2. **"Retreat and failure"**: Mainstream and climate media framed it as abandoning climate commitments. Courthouse News: *"BP ditches climate targets in pivot back to oil and gas."* [Courthouse News](https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/)
-3. **"Shareholder pressure wins"**: Financial media emphasized Elliott's role: *"The storied British firm last year came under pressure from activist shareholder Elliott Investment Management to focus on its legacy oil and gas business and pivot away from a failed foray into renewables."* [Rigzone](https://www.rigzone.com/news/wire/bp_must_make_better_use_of_shareholder_capital_ceo_says-05-oct-2026-184774-article/)
-4. **"Proof of greenwashing"**: Environmental and left-leaning media: *"CEO Murray Auchincloss said last year that optimism over opportunities in renewable energy was misplaced... BP's hard reset last year was criticised..."* [Butler Eagle](https://www.butlereagle.com/20260526/oil-giant-bp-ousts-new-chairman-over-conduct-and-shares-slide/)
+### 3.3 Interne Führungsanerkennung von Veränderungsmüdigkeit
 
-### 4.3 "Incredulity from Climate Campaigners" — AP Framing
+BPs eigener interner HR-Podcast (Insight222, Oktober 2026) offenbarte das Bewusstsein des Managements für den Moraledruck: *„When you're going through so much change, which we are, it's really important that we think about how you keep people safe, [ensure] they get paid, make sure they have a great place to work... looking after people's health and wellbeing."* (Wenn man so viel Veränderung durchmacht, wie wir es tun, ist es wirklich wichtig, darüber nachzudenken, wie man Menschen sicherhält, sicherstellt, dass sie bezahlt werden, dass sie einen großartigen Arbeitsplatz haben ... und dass man sich um die Gesundheit und das Wohlbefinden der Menschen kümmert.) [Insight222](https://www.insight222.com/podcasts/how-bp-is-writing-the-next-chapter-discussing-transformation-and-technology)
 
-The Associated Press wire dispatch on February 26, 2025 captured the societal split: BP's announcement was *"a change in direction that it hopes will bolster its flagging share price but has been met with incredulity from climate action campaigners."* [AP via NY1](https://ny1.com/nyc/all-boroughs/ap-top-news/2025/02/26/bp-to-slash-spending-on-net-zero-ventures-as-it-focuses-on-oil-and-gas-again)
+### 3.4 Aussperrung der United Steelworkers — BP-Raffinerie Whiting, Indiana (2026)
 
-### 4.4 BP's Profits Framed as "Obscene" (Q3 2026)
-
-When BP reported record-breaking quarterly profits of **$8.46 billion (£6.31 billion)** in Q3 2026 — boosted by a geopolitical oil price spike — the public framing was harsh:
-- Morning Star: *"Donald Trump's Iran war has sent BP's profits soaring to £6.31 billion in just three months while one in 10 languish in fuel poverty."* [Morning Star](https://morningstaronline.co.uk/article/war-pays-bp-billions)
-- Wiltshire Times: *"BP reports soaring profits in 'obscene' sector haul amid oil price crisis."* [Wiltshire Times](https://www.wiltshiretimes.co.uk/news/national/26683332.bp-reports-soaring-profits-obscene-sector-haul-amid-oil-price-crisis/)
-
----
-
-## SECTION 5: GOVERNMENT & REGULATORY REACTIONS
-
-### 5.1 UK Labour Government — A Complex Position
-
-The UK Labour government (elected 2024) occupied a notably **contradictory position** regarding BP and the fossil fuel sector:
-
-**Anti-fossil fuel pledges:**
-- Labour's 2024 manifesto committed to **issuing no new oil and gas licences** in the North Sea — a landmark pledge described as "a promise made, a promise kept" by supporters. [LabourList](https://labourlist.org/tag/department-for-energy-security-and-net-zero/page/2/)
-- The North Sea Future Plan (November 2025) reiterated: *"We will not issue new licenses to explore new fields."* [ConservativeHome](https://conservativehome.com/2026/10/28/james-weston-the-long-read-the-argument-for-new-north-sea-oil-exploration-is-not-as-clear-as-i-thought/)
-
-**But simultaneously accommodating fossil fuels:**
-- Energy Secretary Fahnbulleh approved the **Jackdaw gas field** (October 2026) — described as compatible with *"legally binding climate commitments."* [Gov.UK](https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light)
-- Chancellor Healey welcomed the Jackdaw approval as a *"pragmatic"* decision for energy security. [Carbon Brief](https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements)
-- The **Rosebank** decision remained pending as of late 2026, with OBR forecasts reportedly assuming it would proceed.
-- Labour faced internal splits, with defense minister Healey favoring production while energy secretary Fahnbulleh was reportedly against.
-
-**On carbon capture subsidies (controversial):**
-- Campaigners urged the chancellor to scrap **£24 billion in carbon capture and storage (CCS)** support going to BP and Equinor, calling it a *"national embarrassment."* [Yahoo News UK](https://uk.news.yahoo.com/campaigners-urge-chancellor-scrap-spending-132800486.html)
-
-**BP lobbying the UK government:**
-- InfluenceMap found BP among companies (alongside Shell and Centrica) that had lobbied ministers on hydrogen-for-home-heating. [InfluenceMap](https://influencemap.org/JP/pressrelease/Advocacy-Report-PR-33053)
-- An investigation revealed how **Big Oil lobbied Labour and SNP ministers** over North Sea decisions, with BP identified among the actors. [The National](https://www.thenational.scot/news/26686528.big-oil-lobbied-labour-snp-ministers-north-sea/)
-
-**BP's own North Sea exit signals:**
-- In a further strategic twist, BP announced in **July 2026** plans to **sell its North Sea operations** — after years of being a major North Sea player — as part of its portfolio overhaul. This added a layer of irony: BP was pivoting back to fossil fuels but divesting UK fossil fuel assets. [Le Monde](https://www.lemonde.fr/en/economy/article/2026/10/05/in-aberdeen-scotland-the-slow-twilight-of-north-sea-oil-and-gas_6758278_19.html)
-
-### 5.2 EU Regulatory Context
-
-**Fitch ESG scoring controversy:**
-A letter from a coalition of US state financial officers to ratings agencies (October 2026) noted: *"Fitch upgraded BP in part for wind and solar investments, but BP's wind and solar investments subsequently lost billions. BP has underperformed the oil and gas sector and is now trying to refocus on oil and gas."* — suggesting that ESG scoring incentives had rewarded BP for green commitments that were later financially disastrous. [SFOF Letter](https://sfof.com/wp-content/uploads/2026/10/Ratings-Agencies-ESG-Scoring-Letter.pdf)
-
-**UK Advertising Standards Authority context:**
-The ASA (UK advertising regulator) has been active on fossil fuel greenwashing, having banned Shell, Repsol, and Petronas greenwashing ads. While no specific 2023–2024 ASA ruling against BP was found in this research, the regulatory environment for energy company advertising has tightened significantly. [FT stream](https://www.ft.com/stream/266cf48d-b155-4fda-a50a-ff8b06c74bde)
+An BPs Raffinerie in Whiting, Indiana, entstand 2026 ein schwerer und langwieriger **Arbeitskampf** — nicht direkt mit dem Grün-Strategie-Schwenk verbunden, aber als Illustration breiterer Arbeitskonflikte:
+- BP **sperrte rund 800–1.000 Mitglieder der United Steelworkers (USW)** an seiner Whiting-Raffinerie Anfang 2026 aus. Bis Oktober 2026 dauerte die Aussperrung **über 218 Tage (mehr als 7 Monate)**. [In These Times](https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers), [Fox 32 Chicago](https://www.fox32chicago.com/news/bp-whiting-refinery-lockout-reaches-day-221-workers-struggle-make-ends-meet)
+- BP **widersetzte sich den Ansprüchen der Arbeiter auf Arbeitslosenunterstützung** während der Aussperrung — von einem Arbeiter mit den Worten beschrieben: *„They're Trying to Starve Us."* (Sie versuchen, uns auszuhungern.) Die Arbeiter standen vor akuter finanzieller Not. [In These Times](https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers)
+- Ein zentraler Streitpunkt war BPs Versuch, **60–100 interne Facharbeiterstellen** auszulagern. [The Militant](https://themilitant.com/2026/10/09/solidarity-with-bp-oil-workers-locked-out-for-over-6-months/)
+- Das deutsche Medienportal Gn-Online berichtete im Oktober 2026: *„Stellenabbau bei BP in Lingen: So bewertet Betriebsrat die Situation"* — was auf Betriebsratsbedenken bezüglich Stellenabbau bei BPs Lingener Betrieb in Deutschland hindeutet. [GN-Online](https://www.gn-online.de/nachrichten/betriebsraete-tt105003.html) *(⚠️ Unsicher: vollständiger Artikel hinter Bezahlschranke — bestätigt die Wahrnehmung, vollständige Details nicht verfügbar.)*
 
 ---
 
-## SECTION 6: ANALYST & FINANCIAL COMMUNITY REACTIONS
+## ABSCHNITT 4: MEDIEN & ÖFFENTLICHE WAHRNEHMUNG
 
-### 6.1 Consensus Analyst Reaction — "Broadly Positive"
+### 4.1 „Beyond Petroleum" — Der historische Rahmen
 
-The financial analyst community largely endorsed the strategy reset:
-- **Overall consensus**: As of late 2026, 26 research firms give BP an average **"Moderate Buy"** rating, with 15 buys, 8 holds, 2 sells and 1 strong buy. Average 12-month price target: **$49.44**. [MarketBeat](https://www.marketbeat.com/instant-alerts/consensus-bp-plc-bp-what-are-investment-firms-saying-about-this-stock-2026-11-01/)
-- **Recent upgrades**: HSBC and Mizuho both upgraded BP; Mizuho raised price target from $53 to $56 (October 2026). [Yahoo Finance Analyst Insights](https://finance.yahoo.com/quote/BP/analyst-insights/?fr=sycsrp_catchall)
-- **Wells Fargo** raised price target to **$63** (November 2026) citing debt reduction, maintaining Overweight. [Investing.com](https://www.investing.com/news/analyst-ratings/wells-fargo-raises-bp-stock-price-target-to-63-on-debt-reduction-93CH-4990403)
-- **BofA Securities**: Maintained a **Sell** rating — one of the few holdouts, maintained through October 2026. [Moomoo](https://www.moomoo.com/news/post/1001194562/bofa-securities-maintains-bp-plc-bpus-with-sell-rating)
-- **Morningstar**: *"BP's pivot back to oil and gas should result in stronger long-term performance and higher returns than its previous energy transition strategy."* [Morningstar](https://www.morningstar.com/news/dow-jones/202610131204/bps-new-ceo-to-outline-strategy-as-balance-sheet-strengthens-2nd-update)
-- **Simply Wall St (Bullish Analysts)**: *"BP's strategy reset, with a sharper focus on portfolio simplification and divestment of non-core assets, is starting to resonate in higher price targets and improved confidence in long-term earnings growth."* [Simply Wall St](https://simplywall.st/stocks/gb/energy/lse-bp./bp-shares?blueprint=4817727)
+Das Rebranding „Beyond Petroleum" aus den Jahren 2000–2010 (durchgeführt durch Ogilvy & Mather, das 2007 einen Gold Effie gewann) wird von Journalisten heute universell als Referenzrahmen für die Kritik an BPs Schwenk 2025 genutzt:
 
-### 6.2 Credit Rating Implications
+- **Canny Creative's Brand Atlas**: *„'Beyond Petroleum' ran from 2000 to around 2010... Critics said it overstated the business... In 2025 the company reset again."* ('Beyond Petroleum' lief von 2000 bis etwa 2010 ... Kritiker sagten, es übertreibe das Geschäft ... Im Jahr 2025 machte das Unternehmen erneut einen Reset.) [Canny Creative](https://www.canny-creative.com/atlas/brand/bp/)
+- **Stratrix**: *„'Beyond Petroleum' Was a Logo, Not a Strategy... In 2000, BP spent $200 million telling the world it was no longer an oil company."* ('Beyond Petroleum' war ein Logo, keine Strategie ... Im Jahr 2000 gab BP 200 Millionen Dollar aus, um der Welt zu sagen, es sei kein Ölunternehmen mehr.) [Stratrix](https://www.stratrix.com/reversals/bp-s-renewables-retreat-and-deepwater)
+- **HuffPost-Schlagzeile** (archiviert): „BP Proves Beyond Petroleum Was Greenwashing" — was zeigt, wie die Markengeschichte nun als eine einzige betrügerische Entwicklung gerahmt wird. [HuffPost](https://www.huffpost.com/impact/topic/bp?page=197)
+- Fortunes großes Feature vom Juli 2025: *„'Too far, too fast': BP's painful retreat from the renewables it once championed"* — der Titel selbst fasst die vorherrschende Medienerzählung zusammen. [Fortune](https://fortune.com/article/bp-ceo-murray-auchincloss-gas-clean-energy-big-oil-bernard-looney/)
 
-Direct Moody's/S&P ratings for BP were not definitively confirmed in the public search results. However, contextually important points:
-- **Shell has stronger credit ratings**: Shell holds **Moody's Aa2, S&P A+, Fitch AA-** (confirmed). BP's ratings were not found specified. [Simply Wall St Shell analysis](https://simplywall.st/community/narratives/gb/energy/lse-shel/shell-shares/2ohdpyoa-update-for-shell/updates/3-the-current-macroeconomic-cycle-allows-for-a-risk-free-retur)
-- The Fitch ESG scoring controversy highlighted above suggests that rating agencies' *ESG scores* (distinct from credit ratings) had rewarded BP's green ambitions and now face pressure to recalibrate.
-- BP's rapid **debt reduction** (reaching target range a year ahead of schedule in Q3 2026) improved its financial stability profile significantly, likely positively influencing credit outlook. [BP.com](https://www.bp.com/en-US/investors/results-reporting-and-presentations/quarterly-results-and-webcast)
+### 4.2 Dominante Medien-Rahmen 2025
 
-### 6.3 Peer Comparison: BP vs Shell vs TotalEnergies
+Mehrere Rahmen konkurrierten miteinander:
+1. **„Rückkehr zum gesunden Menschenverstand"**: Konservative Medien (National Review usw.) rahmten den Reset als Bestätigung und wiesen darauf hin, dass BPs Ausflug in die Erneuerbaren verlustbringend gewesen sei. *„Another Green Waste"* war eine repräsentative National-Review-Schlagzeile. [National Review](https://www.nationalreview.com/corner/another-green-waste/)
+2. **„Rückzug und Scheitern"**: Mainstream- und Klimamedien rahmten es als Aufgabe von Klimaverpflichtungen. Courthouse News: *„BP ditches climate targets in pivot back to oil and gas."* (BP schmeißt Klimaziele beim Schwenk zurück zu Öl und Gas.) [Courthouse News](https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/)
+3. **„Aktionärsdruck siegt"**: Finanzmedien betonten Elliotts Rolle: *„The storied British firm last year came under pressure from activist shareholder Elliott Investment Management to focus on its legacy oil and gas business and pivot away from a failed foray into renewables."* (Das traditionsreiche britische Unternehmen geriet im vergangenen Jahr unter Druck des aktivistischen Aktionärs Elliott Investment Management, sich auf sein angestammtes Öl-und-Gas-Geschäft zu konzentrieren und sich von einem gescheiterten Ausflug in die Erneuerbaren abzuwenden.) [Rigzone](https://www.rigzone.com/news/wire/bp_must_make_better_use_of_shareholder_capital_ceo_says-05-oct-2026-184774-article/)
+4. **„Beweis für Greenwashing"**: Umwelt- und linksorientierte Medien: *„CEO Murray Auchincloss said last year that optimism over opportunities in renewable energy was misplaced... BP's hard reset last year was criticised..."* (CEO Murray Auchincloss sagte letztes Jahr, der Optimismus über Chancen in der erneuerbaren Energie sei verfehlt gewesen ... BPs harter Reset wurde kritisiert ...) [Butler Eagle](https://www.butlereagle.com/20260526/oil-giant-bp-ousts-new-chairman-over-conduct-and-shares-slide/)
+
+### 4.3 „Unglaube bei Klimaaktivisten" — Die AP-Rahmung
+
+Die AP-Nachrichtenmeldung vom 26. Februar 2025 erfasste die gesellschaftliche Spaltung: BPs Ankündigung sei *„a change in direction that it hopes will bolster its flagging share price but has been met with incredulity from climate action campaigners"* (eine Richtungsänderung, von der das Unternehmen hofft, sie werde seinen strauchelnden Aktienkurs stützen, die aber von Klimaaktivisten mit Unglauben aufgenommen worden sei). [AP via NY1](https://ny1.com/nyc/all-boroughs/ap-top-news/2025/02/26/bp-to-slash-spending-on-net-zero-ventures-as-it-focuses-on-oil-and-gas-again)
+
+### 4.4 BPs Gewinne als „obszön" gerahmt (Q3 2026)
+
+Als BP im Q3 2026 Rekordquartalsgewinne von **8,46 Milliarden US-Dollar (6,31 Milliarden Pfund Sterling)** meldete — angekurbelt durch einen geopolitisch bedingten Ölpreisanstieg — war die öffentliche Rezeption hart:
+- Morning Star: *„Donald Trump's Iran war has sent BP's profits soaring to £6.31 billion in just three months while one in 10 languish in fuel poverty."* (Donald Trumps Iran-Krieg hat BPs Gewinne in nur drei Monaten auf 6,31 Milliarden Pfund steigen lassen, während jeder Zehnte in Energiearmut lebt.) [Morning Star](https://morningstaronline.co.uk/article/war-pays-bp-billions)
+- Wiltshire Times: *„BP reports soaring profits in 'obscene' sector haul amid oil price crisis."* (BP meldet sprunghaft steigende Gewinne bei „obszöner" Branchenausbeute inmitten der Ölpreiskrise.) [Wiltshire Times](https://www.wiltshiretimes.co.uk/news/national/26683332.bp-reports-soaring-profits-obscene-sector-haul-amid-oil-price-crisis/)
+
+---
+
+## ABSCHNITT 5: REAKTIONEN VON REGIERUNG & REGULIERUNG
+
+### 5.1 Britische Labour-Regierung — Eine komplexe Position
+
+Die britische Labour-Regierung (gewählt 2024) nahm gegenüber BP und dem Fossilen-Brennstoff-Sektor eine auffällig **widersprüchliche Haltung** ein:
+
+**Versprechen gegen fossile Brennstoffe:**
+- Labours Wahlprogramm 2024 verpflichtete sich, **keine neuen Öl- und Gaslizenzen** in der Nordsee auszustellen — ein wegweisendes Versprechen, das von Unterstützern als „ein gegebenes, ein gehaltenes Versprechen" beschrieben wurde. [LabourList](https://labourlist.org/tag/department-for-energy-security-and-net-zero/page/2/)
+- Der North Sea Future Plan (November 2025) bekräftigte: *„We will not issue new licenses to explore new fields."* (Wir werden keine neuen Lizenzen zur Erschließung neuer Felder ausstellen.) [ConservativeHome](https://conservativehome.com/2026/10/28/james-weston-the-long-read-the-argument-for-new-north-sea-oil-exploration-is-not-as-clear-as-i-thought/)
+
+**Gleichzeitig aber Zugeständnisse an fossile Brennstoffe:**
+- Energieminister Fahnbulleh genehmigte das **Jackdaw-Gasfeld** (Oktober 2026) — beschrieben als vereinbar mit *„rechtlich bindenden Klimaverpflichtungen"*. [Gov.UK](https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light)
+- Kanzler Healey begrüßte die Jackdaw-Genehmigung als *„pragmatische"* Entscheidung für die Energiesicherheit. [Carbon Brief](https://www.carbonbrief.org/uk-budget-2026-key-climate-and-energy-announcements)
+- Die **Rosebank**-Entscheidung stand Ende 2026 noch aus, wobei OBR-Prognosen Berichten zufolge von einem Fortschreiten ausgingen.
+- Labour war durch interne Spaltungen gekennzeichnet, wobei Verteidigungsminister Healey die Förderung befürwortete, während Energieministerin Fahnbulleh Berichten zufolge dagegen war.
+
+**Zu Carbon-Capture-Subventionen (umstritten):**
+- Aktivisten drängten den Kanzler, **24 Milliarden Pfund an Carbon Capture and Storage (CCS)**-Unterstützung für BP und Equinor zu streichen, und nannten dies eine *„nationale Schande"*. [Yahoo News UK](https://uk.news.yahoo.com/campaigners-urge-chancellor-scrap-spending-132800486.html)
+
+**BP-Lobbying gegenüber der britischen Regierung:**
+- InfluenceMap identifizierte BP unter den Unternehmen (neben Shell und Centrica), die bei Ministern zum Thema Wasserstoff für Haushaltsheizungen lobbyiert hatten. [InfluenceMap](https://influencemap.org/JP/pressrelease/Advocacy-Report-PR-33053)
+- Eine Recherche enthüllte, wie **Big Oil bei Labour- und SNP-Ministern** zu Nordsee-Entscheidungen lobbyiert hatte, wobei BP als Akteur identifiziert wurde. [The National](https://www.thenational.scot/news/26686528.big-oil-lobbied-labour-snp-ministers-north-sea/)
+
+**BPs eigene Signale zum Nordsee-Rückzug:**
+- In einer weiteren strategischen Wendung kündigte BP im **Juli 2026** Pläne an, **seine Nordsee-Aktivitäten zu verkaufen** — nachdem es jahrelang ein bedeutender Nordsee-Akteur gewesen war — als Teil seines Portfolioumbaus. Dies fügte eine weitere Ironie hinzu: BP schwenkte zurück zu fossilen Brennstoffen, veräußerte aber britische Fossile-Brennstoff-Assets. [Le Monde](https://www.lemonde.fr/en/economy/article/2026/10/05/in-aberdeen-scotland-the-slow-twilight-of-north-sea-oil-and-gas_6758278_19.html)
+
+### 5.2 EU-Regulierungskontext
+
+**Kontroverse um Fitch-ESG-Bewertungen:**
+Ein Brief einer Koalition von US-staatlichen Finanzbeamten an Ratingagenturen (Oktober 2026) stellte fest: *„Fitch upgraded BP in part for wind and solar investments, but BP's wind and solar investments subsequently lost billions. BP has underperformed the oil and gas sector and is now trying to refocus on oil and gas."* (Fitch stufte BP teilweise wegen Wind- und Solarinvestitionen herauf, aber BPs Wind- und Solarinvestitionen verloren anschließend Milliarden. BP hat den Öl-und-Gas-Sektor underperformt und versucht jetzt, sich auf Öl und Gas zu refokussieren.) — was darauf hindeutet, dass ESG-Bewertungsanreize BP für grüne Verpflichtungen belohnt hatten, die sich später finanziell als katastrophal erwiesen. [SFOF Letter](https://sfof.com/wp-content/uploads/2026/10/Ratings-Agencies-ESG-Scoring-Letter.pdf)
+
+**Kontext der britischen Advertising Standards Authority:**
+Die ASA (britische Werbeaufsichtsbehörde) war beim Greenwashing fossiler Brennstoffe aktiv und hat Greenwashing-Anzeigen von Shell, Repsol und Petronas verboten. Obwohl in dieser Recherche keine spezifische ASA-Entscheidung gegen BP aus den Jahren 2023–2024 gefunden wurde, hat sich das Regulierungsumfeld für die Werbung von Energieunternehmen erheblich verschärft. [FT stream](https://www.ft.com/stream/266cf48d-b155-4fda-a50a-ff8b06c74bde)
+
+---
+
+## ABSCHNITT 6: REAKTIONEN VON ANALYSTEN & DER FINANZGEMEINSCHAFT
+
+### 6.1 Analysten-Konsensreaktion — „Weitgehend positiv"
+
+Die Finanzanalystengemeinschaft befürwortete den Strategie-Reset weitgehend:
+- **Gesamtkonsens**: Ende 2026 geben 26 Research-Firmen BP im Durchschnitt ein **„Moderate Buy"**-Rating, mit 15 Kaufempfehlungen, 8 Halten, 2 Verkauf und 1 starkem Kauf. Durchschnittliches 12-Monats-Kursziel: **49,44 US-Dollar**. [MarketBeat](https://www.marketbeat.com/instant-alerts/consensus-bp-plc-bp-what-are-investment-firms-saying-about-this-stock-2026-11-01/)
+- **Jüngste Heraufstufungen**: HSBC und Mizuho stuften BP beide herauf; Mizuho erhöhte das Kursziel von 53 auf 56 US-Dollar (Oktober 2026). [Yahoo Finance Analyst Insights](https://finance.yahoo.com/quote/BP/analyst-insights/?fr=sycsrp_catchall)
+- **Wells Fargo** erhöhte das Kursziel auf **63 US-Dollar** (November 2026) unter Berufung auf Schuldenabbau, mit Beibehaltung von Overweight. [Investing.com](https://www.investing.com/news/analyst-ratings/wells-fargo-raises-bp-stock-price-target-to-63-on-debt-reduction-93CH-4990403)
+- **BofA Securities**: Hielt an einem **Sell**-Rating fest — eines der wenigen Nachzügler, beibehalten bis Oktober 2026. [Moomoo](https://www.moomoo.com/news/post/1001194562/bofa-securities-maintains-bp-plc-bpus-with-sell-rating)
+- **Morningstar**: *„BP's pivot back to oil and gas should result in stronger long-term performance and higher returns than its previous energy transition strategy."* (BPs Schwenk zurück zu Öl und Gas dürfte zu einer stärkeren langfristigen Performance und höheren Renditen führen als seine frühere Energietransitions-Strategie.) [Morningstar](https://www.morningstar.com/news/dow-jones/202610131204/bps-new-ceo-to-outline-strategy-as-balance-sheet-strengthens-2nd-update)
+- **Simply Wall St (bullische Analysten)**: *„BP's strategy reset, with a sharper focus on portfolio simplification and divestment of non-core assets, is starting to resonate in higher price targets and improved confidence in long-term earnings growth."* (BPs Strategie-Reset, mit schärferem Fokus auf Portfolio-Vereinfachung und Veräußerung von Nicht-Kerngeschäften, beginnt sich in höheren Kurszielen und gesteigertem Vertrauen in das langfristige Gewinnwachstum niederzuschlagen.) [Simply Wall St](https://simplywall.st/stocks/gb/energy/lse-bp./bp-shares?blueprint=4817727)
+
+### 6.2 Implikationen für das Kreditrating
+
+Direkte Moody's/S&P-Ratings für BP wurden in den öffentlichen Suchergebnissen nicht abschließend bestätigt. Kontextuell wichtige Punkte:
+- **Shell hat stärkere Kreditratings**: Shell hält **Moody's Aa2, S&P A+, Fitch AA-** (bestätigt). BPs Ratings wurden nicht spezifiziert gefunden. [Simply Wall St Shell-Analyse](https://simplywall.st/community/narratives/gb/energy/lse-shel/shell-shares/2ohdpyoa-update-for-shell/updates/3-the-current-macroeconomic-cycle-allows-for-a-risk-free-retur)
+- Die oben genannte Fitch-ESG-Bewertungskontroverse deutet darauf hin, dass die *ESG-Scores* der Ratingagenturen (getrennt von den Kreditratings) BPs grüne Ambitionen belohnt hatten und nun unter Druck stehen, neu kalibriert zu werden.
+- BPs rascher **Schuldenabbau** (Erreichen des Zielbereichs ein Jahr früher als geplant im Q3 2026) verbesserte sein Finanzstabilitätsprofil erheblich und beeinflusste den Kreditausblick wahrscheinlich positiv. [BP.com](https://www.bp.com/en-US/investors/results-reporting-and-presentations/quarterly-results-and-webcast)
+
+### 6.3 Wettbewerbsvergleich: BP vs. Shell vs. TotalEnergies
 
 | Dimension | BP | Shell | TotalEnergies |
 |---|---|---|---|
-| **2025 strategic stance** | Most pronounced reset back to oil & gas; "went too far, too fast" in renewables | Still committed to net-zero-by-2050 framing; tightened spending | Maintained "two-pillar" balanced model: Oil/Gas + Integrated Power |
-| **Renewables investment** | Slashed from $5B+ to $1.5–2B/year | Selective; limited renewables capex | ~1/3 of investments in low-carbon; major electricity build-out |
-| **Oil & gas production target** | Up to 2.5 mboe/d by 2030 | LNG-centric; no specific production increase | +4%/year energy production growth 2024–2030 |
-| **Activist pressure** | Heavy (Elliott Management) | Moderate | Limited |
-| **Climate investor backlash** | Strongest (25-30% protest votes) | Significant (78% ETS2024 support at AGM) | Lower public controversy |
+| **Strategische Ausrichtung 2025** | Ausgeprägtester Reset zurück zu Öl & Gas; „went too far, too fast" bei Erneuerbaren | Weiterhin zu Net-Zero-by-2050-Rahmung verpflichtet; Ausgaben gestrafft | „Zwei-Säulen"-Balancemodell beibehalten: Öl/Gas + Integrated Power |
+| **Investitionen in Erneuerbare** | Von über 5 Mrd. auf 1,5–2 Mrd. US-Dollar/Jahr gekürzt | Selektiv; begrenzte Erneuerbare-Capex | ~1/3 der Investitionen in Low-Carbon; großer Stromausbau |
+| **Öl-und-Gas-Produktionsziel** | Bis zu 2,5 mboe/d bis 2030 | LNG-zentriert; kein spezifischer Produktionsanstieg | +4 %/Jahr Energieproduktionswachstum 2024–2030 |
+| **Aktivistischer Druck** | Hoch (Elliott Management) | Moderat | Begrenzt |
+| **Klimainvestoren-Gegenreaktionen** | Am stärksten (25–30 % Protestabstimmungen) | Signifikant (78 % ETS2024-Unterstützung auf der AGM) | Geringere öffentliche Kontroverse |
 
-Sources: [S&P Global](https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/021926-feature-energy-majors-tout-oil-growth-plans-with-eye-on-capital-discipline), [Business Times](https://www.businesstimes.com.sg/esg/energy-majors-hold-back-renewables-focus-more-fossil-fuels-research-report), [EnergyNow/Bousso](https://energynow.com/2025/11/commentary-totalenergies-power-play-teaches-big-oil-how-energy-transition-can-work-ron-bousso/), [TotalEnergies 2025 Strategy](https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_strategy-and-outlook-presentation_2025.pdf)
+Quellen: [S&P Global](https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/021926-feature-energy-majors-tout-oil-growth-plans-with-eye-on-capital-discipline), [Business Times](https://www.businesstimes.com.sg/esg/energy-majors-hold-back-renewables-focus-more-fossil-fuels-research-report), [EnergyNow/Bousso](https://energynow.com/2025/11/commentary-totalenergies-power-play-teaches-big-oil-how-energy-transition-can-work-ron-bousso/), [TotalEnergies 2025 Strategy](https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_strategy-and-outlook-presentation_2025.pdf)
 
-**Key quote from TotalEnergies CEO Patrick Pouyanne** on the eve of BP's February 2025 reset: he said *"while oil and gas remained central... [TotalEnergies] would maintain its balanced transition strategy"* — implicitly distinguishing his approach from BP's more dramatic reversal. [Courthouse News](https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/)
+**Schlüsselzitat von TotalEnergies-CEO Patrick Pouyanne** am Vorabend von BPs Reset im Februar 2025: Er sagte, *„while oil and gas remained central... [TotalEnergies] would maintain its balanced transition strategy"* (obwohl Öl und Gas zentral bleibe ... werde [TotalEnergies] seine ausgewogene Transitionsstrategie beibehalten) — und distanzierte sich damit implizit von BPs dramatischerem Kurswechsel. [Courthouse News](https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/)
 
 ---
 
-## SECTION 7: KEY EVENTS TIMELINE
+## ABSCHNITT 7: ZEITLEISTE DER WICHTIGSTEN EREIGNISSE
 
-| Date | Event | Key Stakeholder Reaction |
+| Datum | Ereignis | Wichtigste Stakeholder-Reaktion |
 |---|---|---|
-| **Jan 2019** | BP launches "Possibilities Everywhere"/"Keep Advancing" ad campaign | — |
-| **Dec 2019** | ClientEarth files OECD/NCP greenwashing complaint | NGO legal action |
-| **Feb 2020** | BP withdraws ad campaign; Bernard Looney announces net-zero by 2050 | ClientEarth claims victory |
-| **Jun 2020** | UK NCP finds complaint "substantiated in principle" | Precedent set |
-| **2020–2022** | BP in "energy company" era; exploration team cut from 700+ to <100 | Internal "brutal" morale impact |
-| **Jun 2024** | BP "pauses" offshore wind projects | Investor discontent grows |
-| **Feb 2025** | **STRATEGY RESET**: Elliott stake; "went too far, too fast" announcement | Markets +1–2%; NGOs: "incredulity" |
-| **May 2025** | BP reported as cutting structural costs to target range | Analyst upgrades begin |
-| **Jul 2025** | BP sells US onshore wind business to LS Power | Low-carbon division wind-down |
-| **Nov 2025** | Write-downs of $4–5B on transition businesses flagged | Further low-carbon impairments |
-| **Dec 2025** | BP sells Castrol (65%) to Stonepeak for ~$4.4B | Asset divestiture program |
-| **Early 2026** | Follow This submits climate resolution for 2026 AGM | Activist pressure |
-| **Mar 2026** | BP **blocks** Follow This resolution from AGM agenda | Governance controversy begins |
-| **Apr 19, 2026** | LGIM announces it will vote against chair Manifold's re-election | Institutional investor protest |
-| **Apr 23, 2026** | **2026 AGM**: Resolution 23 (weaken climate disclosure) rejected; Resolution 24 gets ~26% support; Manifold gets only 82% support | Shareholder revolt on governance |
-| **May 26, 2026** | BP **ousts chair Albert Manifold** over governance/conduct concerns | Board crisis; shares fall 5.7% |
-| **Jul 2026** | BP announces North Sea sale | Deeper portfolio overhaul |
-| **Sep 2026** | Ian Tyler appointed permanent chair | Stabilization attempt |
-| **Oct 2026** | BP reports record quarterly profits ($8.46B); announces Dec strategy day | NGOs denounce "obscene" profits |
-| **Oct 30, 2026** | Morningstar, analysts broadly positive; Friends of Earth critical | Divided stakeholder landscape |
+| **Jan 2019** | BP startet Werbekampagne „Possibilities Everywhere"/„Keep Advancing" | — |
+| **Dez 2019** | ClientEarth reicht OECD/NCP-Greenwashing-Beschwerde ein | Rechtliche NGO-Schritte |
+| **Feb 2020** | BP zieht Werbekampagne zurück; Bernard Looney kündigt Net Zero by 2050 an | ClientEarth beansprucht Sieg |
+| **Jun 2020** | UK NCP befundet Beschwerde als „dem Grunde nach berechtigt" | Präzedenzfall gesetzt |
+| **2020–2022** | BP in der „Energieunternehmen"-Ära; Explorationsteam von 700+ auf <100 reduziert | Intern „brutale" Moraleauswirkungen |
+| **Jun 2024** | BP „pausiert" Offshore-Wind-Projekte | Wachsende Investorenunzufriedenheit |
+| **Feb 2025** | **STRATEGIE-RESET**: Elliott-Beteiligung; Ankündigung „went too far, too fast" | Märkte +1–2 %; NGOs: „Unglaube" |
+| **Mai 2025** | BP meldet Kürzung der Strukturkosten auf Zielbereich | Analysten-Heraufstufungen beginnen |
+| **Jul 2025** | BP verkauft US-Onshore-Windgeschäft an LS Power | Abwicklung der Low-Carbon-Sparte |
+| **Nov 2025** | Angekündigte Wertminderungen von 4–5 Mrd. US-Dollar auf Transition-Geschäfte | Weitere Low-Carbon-Impairments |
+| **Dez 2025** | BP verkauft Castrol (65 %) für ~4,4 Mrd. US-Dollar an Stonepeak | Vermögensveräußerungsprogramm |
+| **Anfang 2026** | Follow This reicht Klimaresolution für AGM 2026 ein | Aktivistischer Druck |
+| **Mär 2026** | BP **blockiert** Follow-This-Resolution für die AGM-Tagesordnung | Governance-Kontroverse beginnt |
+| **19. Apr 2026** | LGIM kündigt Gegenstimme zur Wiederwahl von Chairman Manifold an | Institutioneller Investorenprotest |
+| **23. Apr 2026** | **AGM 2026**: Resolution 23 (Klimaberichterstattung abschwächen) abgelehnt; Resolution 24 erhält ~26 % Unterstützung; Manifold erhält nur 82 % | Aktionärsrevolte zur Governance |
+| **26. Mai 2026** | BP **entlässt Chairman Albert Manifold** wegen Governance/Verhaltensproblemen | Board-Krise; Aktien fallen 5,7 % |
+| **Jul 2026** | BP kündigt Nordsee-Verkauf an | Tiefgreifender Portfolioumbau |
+| **Sep 2026** | Ian Tyler zum permanenten Chairman ernannt | Stabilisierungsversuch |
+| **Okt 2026** | BP meldet Rekordquartalsgewinne (8,46 Mrd. US-Dollar); kündigt Strategie-Tag im Dez an | NGOs verurteilen „obszöne" Gewinne |
+| **30. Okt 2026** | Morningstar, Analysten weitgehend positiv; Friends of the Earth kritisch | Gespaltene Stakeholder-Landschaft |
 
 ---
 
-## SECTION 8: SPECIFIC INCIDENTS / LEGAL MATTERS
+## ABSCHNITT 8: SPEZIFISCHE VORFÄLLE / RECHTLICHE ANGELEGENHEITEN
 
-### 8.1 ClientEarth Lawsuit Against BP Directors
-⚠️ **Note on uncertainty**: No confirmed ClientEarth lawsuit specifically *against BP directors* (equivalent to the ClientEarth vs Shell directors lawsuit in 2023) was found in this research. The ClientEarth actions against BP have been through regulatory channels (OECD/NCP complaint) and advertising standards routes rather than a company-law directors' duty claim. This should be verified with primary sources if specifically needed.
+### 8.1 ClientEarth-Klage gegen BP-Direktoren
+⚠️ **Hinweis zur Unsicherheit**: In dieser Recherche wurde keine bestätigte ClientEarth-Klage speziell *gegen BP-Direktoren* (vergleichbar mit dem ClientEarth-vs.-Shell-Direktoren-Verfahren von 2023) gefunden. Die ClientEarth-Maßnahmen gegen BP erfolgten über Regulierungskanäle (OECD/NCP-Beschwerde) und Werbestandard-Wege, nicht über eine gesellschaftsrechtliche Directors'-Duty-Klage. Dies sollte bei Bedarf mit Primärquellen verifiziert werden.
 
-### 8.2 The Follow This Resolution Blocking (UK Precedent)
-As described in Section 1.3, BP's blocking of the Follow This resolution in March 2026 set a **significant UK corporate governance precedent**. Sarasin & Partners described it as a threat to *"voting rights"* broadly: *"In March BP set a new precedent for the UK by refusing to circulate a climate-related shareholder resolution for its 2026 AGM."* [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/)
+### 8.2 Die Blockierung der Follow-This-Resolution (britischer Präzedenzfall)
+Wie in Abschnitt 1.3 beschrieben, setzte BPs Blockierung der Follow-This-Resolution im März 2026 einen **bedeutenden britischen Corporate-Governance-Präzedenzfall**. Sarasin & Partners beschrieben es als umfassende Bedrohung der *„Stimmrechte"*: *„In March BP set a new precedent for the UK by refusing to circulate a climate-related shareholder resolution for its 2026 AGM."* (Im März setzte BP einen neuen Präzedenzfall für das Vereinigte Königreich, indem es sich weigerte, eine klimabezogene Aktionärsresolution für seine AGM 2026 zu verteilen.) [Sarasin & Partners](https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/)
 
-### 8.3 The Chair Removal — A Major Governance Crisis (May 26, 2026)
-BP's removal of Albert Manifold was one of the most dramatic governance events at a UK FTSE 100 company in years:
-- Manifold had only been appointed in **October 2025** to help steer the strategy reset
-- Board removed him on **May 26, 2026** after receiving **whistleblower reports** that he was bullying and verbally abusive toward staff (per Reuters sources)
-- Manifold later **denied wrongdoing**
-- BP's shares **fell 5.7%** on the news
-- Ian Tyler was appointed interim chair; confirmed as permanent chair September 2026
-- Harvard Corporate Governance Blog noted: *"Incoming chair Albert Manifold then received only 82% support and was subsequently ousted by the board."*
-Sources: [Energy Reader](https://energyreader.io/brief/15899), [Directors Institute](https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit), [Economic Times](https://economictimes.indiatimes.com/news/international/business/former-bp-chair-albert-manifold-denies-wrongdoing-after-ouster/)
+### 8.3 Die Entlassung des Chairmen — Eine schwere Governance-Krise (26. Mai 2026)
+BPs Absetzung von Albert Manifold war eines der dramatischsten Governance-Ereignisse bei einem britischen FTSE-100-Unternehmen seit Jahren:
+- Manifold war erst im **Oktober 2025** ernannt worden, um den Strategie-Reset zu steuern
+- Der Board entließ ihn am **26. Mai 2026**, nachdem er **Whistleblower-Berichte** erhalten hatte, wonach er Mitarbeiter mobbte und verbal misshandelte (laut Reuters-Quellen)
+- Manifold **bestritt später ein Fehlverhalten**
+- BPs Aktien **fielen um 5,7 %** auf die Nachricht hin
+- Ian Tyler wurde zum Interimsvorsitzenden ernannt; im September 2026 als permanenter Chairman bestätigt
+- Der Harvard Corporate Governance Blog stellte fest: *„Incoming chair Albert Manifold then received only 82% support and was subsequently ousted by the board."* (Der neu ernannte Chairman Albert Manifold erhielt dann nur 82 % Unterstützung und wurde anschließend vom Board abgesetzt.)
+Quellen: [Energy Reader](https://energyreader.io/brief/15899), [Directors Institute](https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit), [Economic Times](https://economictimes.indiatimes.com/news/international/business/former-bp-chair-albert-manifold-denies-wrongdoing-after-ouster/)
 
-### 8.4 CEO Transition (2026)
-- **Murray Auchincloss** stepped down as CEO in early 2026
-- **Meg O'Neill** became CEO in **April 2026**, described as *"a fossil-fuel enthusiast... brought in with a clear mandate"* to advance the strategy reset [Rigzone](https://www.rigzone.com/news/wire/bp_must_make_better_use_of_shareholder_capital_ceo_says-05-oct-2026-184774-article/)
-- O'Neill announced a **strategy and outlook update for December 15, 2026** in New York
-
----
-
-## SECTION 9: CONTRADICTIONS, UNCERTAINTIES & CAVEATS
-
-1. **Share price on Feb 26, 2025**: Reports are conflicting (-1.6% vs +1.48% intraday). Both are plausible — mixed intraday trading is common on strategy days. The medium-term +45% rise is more reliable as a trend signal.
-
-2. **Follow This vs ACCR**: The two activist groups are distinct. Follow This (Dutch) had its resolution *blocked* before the 2026 AGM. ACCR (Australian) had *Resolution 24* voted on at the 2026 AGM with 25.85% support. These are two separate actions often conflated in press coverage.
-
-3. **ClientEarth directors lawsuit**: Frequently asked about, but the confirmed BP-specific action is the 2019 OECD/NCP complaint — not a directors' duty lawsuit equivalent to ClientEarth's 2023 Shell directors case. This needs further verification with ClientEarth's case database.
-
-4. **Manifold ouster timing**: The removal was cited as relating to conduct/governance (bullying), not specifically climate strategy — though the broader climate governance context undoubtedly contributed to the hostile environment. Causation vs correlation should be noted.
-
-5. **Employee headcount in renewables**: No verified public count of low-carbon division redundancies specifically from 2024–2025 was found. The financial write-downs ($3–4.5B) confirm major restructuring, but individual headcount changes were not publicly itemized.
-
-6. **Shell "considers bid for BP"** (late 2026): Reported by Business Day Nigeria and others, but BP CEO O'Neill categorically denied any breakup discussions. Treat as unconfirmed market speculation.
+### 8.4 CEO-Wechsel (2026)
+- **Murray Auchincloss** trat Anfang 2026 als CEO zurück
+- **Meg O'Neill** wurde im **April 2026** CEO, beschrieben als *„a fossil-fuel enthusiast... brought in with a clear mandate"* (eine Fossil-Fuel-Enthusiastin ... mit einem klaren Mandat berufen), um den Strategie-Reset voranzutreiben [Rigzone](https://www.rigzone.com/news/wire/bp_must_make_better_use_of_shareholder_capital_ceo_says-05-oct-2026-184774-article/)
+- O'Neill kündigte ein **Strategie- und Ausblick-Update für den 15. Dezember 2026** in New York an
 
 ---
 
-## SUMMARY: STAKEHOLDER REACTION TYPOLOGY (for Tafuro & Piccaluga Framework)
+## ABSCHNITT 9: WIDERSPRÜCHE, UNSICHERHEITEN & VORBEHALTE
 
-| Stakeholder Group | Primary Reaction Type | Intensity | Direction |
+1. **Aktienkurs am 26. Februar 2025**: Die Berichte sind widersprüchlich (-1,6 % vs. +1,48 % Intraday). Beide sind plausibel — gemischter Intraday-Handel ist an Strategie-Tagen üblich. Der mittelfristige +45-%-Anstieg ist als Trendsignal zuverlässiger.
+
+2. **Follow This vs. ACCR**: Die beiden Aktivisten-Gruppen sind unterschiedlich. Follow This (niederländisch) hatte seine Resolution *blockiert* vor der AGM 2026. ACCR (australisch) hatte *Resolution 24* auf der AGM 2026 mit 25,85 % Unterstützung abstimmen lassen. Es handelt sich um zwei separate Aktionen, die in der Presseberichterstattung häufig verwechselt werden.
+
+3. **ClientEarth-Directors'-Klage**: Häufig nachgefragt, aber die bestätigte BP-spezifische Maßnahme ist die OECD/NCP-Beschwerde von 2019 — keine Directors'-Duty-Klage, die dem ClientEarth-Shell-Direktoren-Fall von 2023 entspricht. Dies muss bei Bedarf mit ClientEarths Falldatenbank verifiziert werden.
+
+4. **Timing der Manifold-Entlassung**: Die Abberufung wurde als in Zusammenhang mit Verhalten/Governance (Mobbing) stehend zitiert, nicht explizit mit der Klimastrategie — obwohl der breitere Klimagovernance-Kontext zweifellos zum feindseligen Umfeld beigetragen hat. Kausalität vs. Korrelation sollte beachtet werden.
+
+5. **Mitarbeiterzahl in Erneuerbaren**: Keine verifizierte öffentliche Angabe zu Stellenabbau in der Low-Carbon-Sparte speziell aus den Jahren 2024–2025 wurde gefunden. Die finanziellen Wertminderungen (3–4,5 Mrd. US-Dollar) bestätigen eine umfassende Restrukturierung, aber individuelle Personalveränderungen wurden nicht öffentlich aufgelistet.
+
+6. **Shell „erwägt Angebot für BP"** (Ende 2026): Berichtet von Business Day Nigeria und anderen, aber BP-CEO O'Neill bestritt kategorisch jegliche Aufspaltungsgespräche. Als unbestätigte Marktspekulation zu behandeln.
+
+---
+
+## ZUSAMMENFASSUNG: STAKEHOLDER-REAKTIONSTYPOLOGIE (für das Tafuro-&-Piccaluga-Framework)
+
+| Stakeholder-Gruppe | Primärer Reaktionstyp | Intensität | Richtung |
 |---|---|---|---|
-| Elliott Management | **Financial/Strategic "Sharing"** | Very High | Pro-pivot (demanded it) |
-| BlackRock/Vanguard | **Passive acceptance** | Low | Broadly supportive |
-| Follow This/ACCR | **Oppositional "Sharing"** | High | Anti-pivot (filed resolutions) |
-| LGIM/Sarasin | **Conditional engagement** | Medium | Concerned; voted against chair |
-| ClientEarth | **Legal/regulatory challenge** | High | Persistent opposition |
-| Greenpeace/FoE | **Reputational pressure** | High | Opposition ("incredulity") |
-| UK Government | **Ambiguous accommodation** | Medium | Mixed signals |
-| Media | **Framing as retreat** | High | Predominantly critical (mainstream) |
-| Financial Analysts | **Financial endorsement** | High | Broadly supportive |
-| Employees | **Internal strain** | Medium-High | Mixed; morale pressure acknowledged |
-| USW Union | **Labor opposition** | High | Hostile (lockout dispute) |
+| Elliott Management | **Finanziell/strategisches „Sharing"** | Sehr hoch | Pro-Schwenk (forderte ihn ein) |
+| BlackRock/Vanguard | **Passive Akzeptanz** | Niedrig | Weitgehend unterstützend |
+| Follow This/ACCR | **Oppositionelles „Sharing"** | Hoch | Anti-Schwenk (reichten Resolutionen ein) |
+| LGIM/Sarasin | **Konditionales Engagement** | Mittel | Besorgt; stimmten gegen Chairman |
+| ClientEarth | **Rechtliche/regulatorische Herausforderung** | Hoch | Anhaltende Opposition |
+| Greenpeace/FoE | **Reputativer Druck** | Hoch | Opposition („Unglaube") |
+| UK-Regierung | **Ambivalente Duldung** | Mittel | Gemischte Signale |
+| Medien | **Rahmung als Rückzug** | Hoch | Überwiegend kritisch (Mainstream) |
+| Finanzanalysten | **Finanzielle Befürwortung** | Hoch | Weitgehend unterstützend |
+| Mitarbeiter | **Interne Belastung** | Mittel-Hoch | Gemischt; Moraledruck anerkannt |
+| USW-Gewerkschaft | **Arbeitsopposition** | Hoch | Feindselig (Aussperrungsstreit) |
 
 ---
 
-## SOURCES REFERENCE LIST
+## QUELLENVERZEICHNIS
 
-1. BBC News (26 Feb 2025): "BP shuns renewables in return to oil and gas" — https://www.bbc.com/news/articles/c3374ekd11po
-2. Energy Voice (26 Feb 2025): "BP boss: 'We went too far too fast'" — https://www.energyvoice.com/markets/567575/bp-boss-we-went-too-far-too-fast-as-firm-slashes-low-carbon-investment-by-5bn/
-3. Fortune (29 Jul 2025): "'Too far, too fast': BP's painful retreat from the renewables it once championed" — https://fortune.com/article/bp-ceo-murray-auchincloss-gas-clean-energy-big-oil-bernard-looney/
-4. Courthouse News (26 Feb 2025): "BP ditches climate targets in pivot back to oil and gas" — https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/
-5. Investors Chronicle (Oct 2026): "BP slashes debt as it rationalises its portfolio" — https://www.investorschronicle.co.uk/content/467ca8f5-ac34-4c43-9f9d-dee21cc0272e
-6. AP Wire (26 Feb 2025): "BP to slash spending on net zero ventures" — https://ny1.com/nyc/all-boroughs/ap-top-news/2025/02/26/bp-to-slash-spending-on-net-zero-ventures-as-it-focuses-on-oil-and-gas-again
-7. BP.com — 2026 AGM Voting Results — https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results
-8. ACCR Investor Bulletin (Oct 2026): "What investors should expect from BP's response to Resolution 24" — https://www.accr.org.au/insights/investor-bulletin-what-investors-should-expect-from-bps-response-to-resolution-24-on-capital-discipline/
-9. Sarasin & Partners (Oct 2026): "Accountability is security" — https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/
-10. Board Agenda (Oct 2026): Follow This BP resolution blocking — https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s
-11. ClientEarth (Dec 2019): "Lawyers take action against BP's climate greenwashing advertising campaign" — https://www.clientearth.org/latest/press-office/lawyers-take-action-against-bp-s-climate-greenwashing-advertising-campaign/
-12. ClientEarth (Jun 2020): "BP greenwashing complaint sets precedent" — https://www.clientearth.org/latest/press-office/bp-greenwashing-complaint-sets-precedent-for-action-on-misleading-ad-campaigns/
-13. Gov.UK NCP (Jun 2020): ClientEarth vs BP Initial Assessment — https://www.gov.uk/government/publications/client-earth-complaint-to-the-uk-ncp-about-bp/initial-assessment-clientearth-complaint-to-the-uk-ncp-about-bp
-14. Peters & Peters (Sep 2024): "BP banned from advertising as 'climate neutral'" — https://www.petersandpeters.com/case/german-environmental-ngo-files-greenwashing-claim-against-bp/
-15. Courthouse News (Oct 2026): NYC greenwashing suit dismissed — https://www.courthousenews.com/nyc-climate-change-suit-against-big-oil-runs-out-of-gas
-16. In These Times (Oct 2026): "They're Trying to Starve Us" — https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers
-17. Fox 32 Chicago (Oct 2026): Whiting lockout 221 days — https://www.fox32chicago.com/news/bp-whiting-refinery-lockout-reaches-day-221-workers-struggle-make-ends-meet
-18. Energy Reader (Oct 2026): "BP ousts chair Albert Manifold over governance and conduct concerns" — https://energyreader.io/brief/15899
-19. Directors Institute (Oct 2026): "Corporate Governance Crisis at BP" — https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit
-20. Reuters (Oct 2026): "BP expects $3 billion to $4.5 billion of impairments" — https://www.reuters.com/business/energy/bp-expects-significantly-higher-gas-trading-third-quarter-2026-10-13/
-21. RLAM (Oct 2026): "Climate commitments are easy. Delivery is harder." — https://www.rlam.com/international/our-views/2026/climate-commitments-are-easy.-delivery-is-harder/
+1. BBC News (26. Feb. 2025): „BP shuns renewables in return to oil and gas" — https://www.bbc.com/news/articles/c3374ekd11po
+2. Energy Voice (26. Feb. 2025): „BP boss: 'We went too far too fast'" — https://www.energyvoice.com/markets/567575/bp-boss-we-went-too-far-too-fast-as-firm-slashes-low-carbon-investment-by-5bn/
+3. Fortune (29. Jul. 2025): „'Too far, too fast': BP's painful retreat from the renewables it once championed" — https://fortune.com/article/bp-ceo-murray-auchincloss-gas-clean-energy-big-oil-bernard-looney/
+4. Courthouse News (26. Feb. 2025): „BP ditches climate targets in pivot back to oil and gas" — https://courthousenews.com/bp-ditches-climate-targets-in-pivot-back-to-oil-and-gas/
+5. Investors Chronicle (Okt. 2026): „BP slashes debt as it rationalises its portfolio" — https://www.investorschronicle.co.uk/content/467ca8f5-ac34-4c43-9f9d-dee21cc0272e
+6. AP Wire (26. Feb. 2025): „BP to slash spending on net zero ventures" — https://ny1.com/nyc/all-boroughs/ap-top-news/2025/02/26/bp-to-slash-spending-on-net-zero-ventures-as-it-focuses-on-oil-and-gas-again
+7. BP.com — AGM 2026 Abstimmungsergebnisse — https://www.bp.com/en-US/investors/shareholder-and-dividend-information/annual-general-meeting/update-on-2026-agm-voting-results
+8. ACCR Investor Bulletin (Okt. 2026): „What investors should expect from BP's response to Resolution 24" — https://www.accr.org.au/insights/investor-bulletin-what-investors-should-expect-from-bps-response-to-resolution-24-on-capital-discipline/
+9. Sarasin & Partners (Okt. 2026): „Accountability is security" — https://sarasinandpartners.com/professional/our-thinking/accountability-is-security/
+10. Board Agenda (Okt. 2026): Follow-This-BP-Resolution-Blockierung — https://boardagenda.com/page/20/?by=date&c=5610&p=Rodrigo%20Gouveia&wtime=229s
+11. ClientEarth (Dez. 2019): „Lawyers take action against BP's climate greenwashing advertising campaign" — https://www.clientearth.org/latest/press-office/lawyers-take-action-against-bp-s-climate-greenwashing-advertising-campaign/
+12. ClientEarth (Jun. 2020): „BP greenwashing complaint sets precedent" — https://www.clientearth.org/latest/press-office/bp-greenwashing-complaint-sets-precedent-for-action-on-misleading-ad-campaigns/
+13. Gov.UK NCP (Jun. 2020): ClientEarth vs. BP Erstbewertung — https://www.gov.uk/government/publications/client-earth-complaint-to-the-uk-ncp-about-bp/initial-assessment-clientearth-complaint-to-the-uk-ncp-about-bp
+14. Peters & Peters (Sep. 2024): „BP banned from advertising as 'climate neutral'" — https://www.petersandpeters.com/case/german-environmental-ngo-files-greenwashing-claim-against-bp/
+15. Courthouse News (Okt. 2026): NYC-Greenwashing-Klage abgewiesen — https://www.courthousenews.com/nyc-climate-change-suit-against-big-oil-runs-out-of-gas
+16. In These Times (Okt. 2026): „They're Trying to Starve Us" — https://inthesetimes.com/article/bp-opposes-unemployment-benefits-for-locked-out-workers
+17. Fox 32 Chicago (Okt. 2026): Whiting-Aussperrung 221 Tage — https://www.fox32chicago.com/news/bp-whiting-refinery-lockout-reaches-day-221-workers-struggle-make-ends-meet
+18. Energy Reader (Okt. 2026): „BP ousts chair Albert Manifold over governance and conduct concerns" — https://energyreader.io/brief/15899
+19. Directors Institute (Okt. 2026): „Corporate Governance Crisis at BP" — https://www.directors-institute.com/post/corporate-governance-crisis-at-bp-what-every-board-can-learn-from-a-chairman-s-exit
+20. Reuters (Okt. 2026): „BP expects $3 billion to $4.5 billion of impairments" — https://www.reuters.com/business/energy/bp-expects-significantly-higher-gas-trading-third-quarter-2026-10-13/
+21. RLAM (Okt. 2026): „Climate commitments are easy. Delivery is harder." — https://www.rlam.com/international/our-views/2026/climate-commitments-are-easy.-delivery-is-harder/
 22. LAPFF Q2 2026 Quarterly Engagement Report — https://www.lapfforum.org/engagements/lapff-q2-2026-quarterly-engagement-report/
-23. Semafor (Oct 2026): "Some BP board members favor breakup" — https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant
-24. Ground News / AP: "BP making significant progress on fossil fuel strategy" — https://ground.news/article/bp-making-significant-progress-on-fossil-fuel-strategy
-25. National Review (Oct 2026): "Cleaning Up After Clean Energy Isn't Straightforward" — https://www.nationalreview.com/corner/another-green-waste/
-26. Morning Star (Oct 2026): "War pays... BP billions" — https://morningstaronline.co.uk/article/war-pays-bp-billions
-27. S&P Global (Feb 2026): "Energy majors tout oil growth plans" — https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/021926-feature-energy-majors-tout-oil-growth-plans-with-eye-on-capital-discipline
-28. EnergyNow/Bousso (Nov 2025): "TotalEnergies' Power Play Teaches Big Oil How Energy Transition Can Work" — https://energynow.com/2025/11/commentary-totalenergies-power-play-teaches-big-oil-how-energy-transition-can-work-ron-bousso/
-29. ESG Dive (Feb 2025): "BP cuts renewable spending, doubles down on fossil fuels in strategy reset" — https://www.esgdive.com/news/bp-cuts-renewable-spending-doubles-down-on-fossil-fuels-in-strategy-reset/741287/
-30. Oxford Academic/Cambridge Journal of Economics (Oct 2026): "An oil major, a hedge fund and the climate crisis" — https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/beag035/9003625
-31. MarketBeat (Nov 2026): BP analyst consensus "Moderate Buy" — https://www.marketbeat.com/instant-alerts/consensus-bp-plc-bp-what-are-investment-firms-saying-about-this-stock-2026-11-01/
-32. Stratrix (Oct 2026): "BP's 'Beyond Petroleum': A Logo, Not a Strategy" — https://www.stratrix.com/reversals/bp-s-renewables-retreat-and-deepwater
+23. Semafor (Okt. 2026): „Some BP board members favor breakup" — https://www.semafor.com/article/10/28/2026/some-bp-board-members-favor-breakup-of-129-billion-oil-giant
+24. Ground News / AP: „BP making significant progress on fossil fuel strategy" — https://ground.news/article/bp-making-significant-progress-on-fossil-fuel-strategy
+25. National Review (Okt. 2026): „Cleaning Up After Clean Energy Isn't Straightforward" — https://www.nationalreview.com/corner/another-green-waste/
+26. Morning Star (Okt. 2026): „War pays... BP billions" — https://morningstaronline.co.uk/article/war-pays-bp-billions
+27. S&P Global (Feb. 2026): „Energy majors tout oil growth plans" — https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/021926-feature-energy-majors-tout-oil-growth-plans-with-eye-on-capital-discipline
+28. EnergyNow/Bousso (Nov. 2025): „TotalEnergies' Power Play Teaches Big Oil How Energy Transition Can Work" — https://energynow.com/2025/11/commentary-totalenergies-power-play-teaches-big-oil-how-energy-transition-can-work-ron-bousso/
+29. ESG Dive (Feb. 2025): „BP cuts renewable spending, doubles down on fossil fuels in strategy reset" — https://www.esgdive.com/news/bp-cuts-renewable-spending-doubles-down-on-fossil-fuels-in-strategy-reset/741287/
+30. Oxford Academic/Cambridge Journal of Economics (Okt. 2026): „An oil major, a hedge fund and the climate crisis" — https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/beag035/9003625
+31. MarketBeat (Nov. 2026): BP-Analysten-Konsens „Moderate Buy" — https://www.marketbeat.com/instant-alerts/consensus-bp-plc-bp-what-are-investment-firms-saying-about-this-stock-2026-11-01/
+32. Stratrix (Okt. 2026): „BP's 'Beyond Petroleum': A Logo, Not a Strategy" — https://www.stratrix.com/reversals/bp-s-renewables-retreat-and-deepwater
 33. TotalEnergies 2025 Strategy — https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_strategy-and-outlook-presentation_2025.pdf
 34. Shell Energy Transition Strategy 2024 — https://www.shell.com/what-we-do/our-strategy/sustainability/climate/shell-energy-transition-strategy.html
-35. Gov.UK (Oct 2026): "Jackdaw gas field gets green light" — https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light
-36. InfluenceMap (Oct 2026): "Major Lobbying Transparency Gaps" — https://influencemap.org/JP/pressrelease/Advocacy-Report-PR-33053
+35. Gov.UK (Okt. 2026): „Jackdaw gas field gets green light" — https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light
+36. InfluenceMap (Okt. 2026): „Major Lobbying Transparency Gaps" — https://influencemap.org/JP/pressrelease/Advocacy-Report-PR-33053
 
 ---
 
-*Research note: All searches conducted in November 2026. The research environment has a number of sources from late 2026 (Q3/Q4 2026) which represent the most current available information at time of research. The timeline covers BP strategy developments from 2019 (ClientEarth complaint) through the planned December 2026 strategy update under new CEO Meg O'Neill.*
+*Recherche-Hinweis: Alle Recherchen wurden im November 2026 durchgeführt. Die Recherche-Umgebung enthält eine Reihe von Quellen aus dem späten 2026 (Q3/Q4 2026), die die aktuellsten zum Zeitpunkt der Recherche verfügbaren Informationen darstellen. Die Zeitleiste umfasst BP-Strategieentwicklungen von 2019 (ClientEarth-Beschwerde) bis zum geplanten Strategie-Update im Dezember 2026 unter der neuen CEO Meg O'Neill.*
