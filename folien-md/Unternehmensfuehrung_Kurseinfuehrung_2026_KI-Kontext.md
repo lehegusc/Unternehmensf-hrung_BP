@@ -1,5 +1,5 @@
 # Unternehmensführung & Organisation — Kurseinführung
-> Kurseinführung | 39 Folien | Prof. Dr. Regina Raschke, HWG Ludwigshafen
+> Kurseinführung | 38 Folien | Prof. Dr. Regina Raschke, HWG Ludwigshafen
 
 ---
 
@@ -26,29 +26,21 @@ Zwei Spalten mit einem verbindenden Mittelelement:
 
 ---
 
-## Folie 10 — Kurseinführung / Warum dieser Kurs? (Medien-Collage: Unternehmen unter Druck)
+## Folie 11 — 2026: Der Umbau der deutschen Wirtschaft wird strukturell
 
-Schlagzeilen aktueller Wirtschaftspresse, die Krisen etablierter Unternehmen zeigen:
-- **manager magazin — „Autobauer: Porsche AG fliegt aus dem Dax"** — „Der Stuttgarter Sportwagenbauer Porsche AG muss den Dax drei Jahre nach seinem Börsengang verlassen. Auch Sartorius fliegt aus dem Index. Die beiden Nachrücker stehen fest." (04.09.2025, 11.23 Uhr)
-- **Handelsblatt — „Autoaktien brechen nach Gewinnwarnung bei Porsche und VW ein"** — „Nach den Nachrichten über neue Milliardenbelastungen geht es für Autoaktien an der Börse bergab. VW und die Konzernholding Porsche SE verlieren rund sieben Prozent. Aber auch andere Titel trifft es." (dpa, 22.09.2025 - 11:40 Uhr)
-- **Handelsblatt — „Lufthansa streicht 4000 Stellen – vor allem in Deutschland"** — „Die größte deutsche Airline streicht noch mehr Stellen als erwartet. In einer Abteilung des Konzerns müssen besonders viele Mitarbeiter gehen." (Jens Koenen, 29.09.2025 - 12:28 Uhr)
+**Schlagzeile:** „2026: Der Umbau der deutschen Wirtschaft wird strukturell – weniger Hierarchie, weniger Stellen, mehr KI"
 
----
-
-## Folie 11 — Kurseinführung / Warum dieser Kurs? (Medien-Collage: Bosch-Krise)
-
-Presse-Schlagzeilen zum Krisenbeispiel Bosch:
-- **„Traditionskonzern im Umbruch — Das Bosch-Beben"** — Kommentar von Benjamin Wagener (26.09.2025, 15:01, Lesezeit 3 Min.)
-- **manager magazin — Chronik — „Niedergang in Etappen – wie Bosch in die Krise rutschte"** — „13.000 weitere Stellen sollen bei Bosch wegfallen, Milliarden Euro gespart werden – die Nachricht alarmiert. Sie ist ein neuer trauriger Tiefpunkt in der zuletzt von Krise geprägten Unternehmensgeschichte. Die Chronik."
-- **BILD — „13.000 Jobs weg! Bosch-Hammer trifft nur Deutschland"**
+> Kontextfolie: Aktuelle Medienreferenz, die den Transformationsdruck auf deutsche Unternehmen verdeutlicht. Drei Dimensionen des Wandels: Abbau hierarchischer Strukturen, Stellenreduktion und zunehmender KI-Einsatz.
 
 ---
 
-## Folie 12 — Megatrends (Vollbild)
+## Folie 12 — Zwischen Erfolg und Krise: Unternehmen im Transformationsdruck
 
-**Titel im Bild:** „MEGATRENDS" mit Unterzeile: „A systemic view on the global dynamics of change"
+**Titel:** „Zwischen Erfolg und Krise: Unternehmen im Transformationsdruck"
 
 **Quelle/URL:** https://z-punkt.de/de/themen/megatrends#slide1
+
+> Übergangsfolie zu den Megatrends, die den externen Veränderungsdruck auf Unternehmen illustriert.
 
 ---
 
@@ -67,41 +59,29 @@ Presse-Schlagzeilen zum Krisenbeispiel Bosch:
 
 ---
 
-## Folie 14 — Zitat: Gary Hamel
+## Folie 14 — Kurseinführung / Warum dieser Kurs? „Unterschiedliche Ausgangslagen – unterschiedliche strategische Antworten"
 
-**Zitat 1:** „52% of the Fortune 500 companies from 2000 are not existing any more!" — *Wang 2014*
-
-**Zitat 2:** „Most of us understand that innovation is enormously important. **It's the only insurance against irrelevance.** […] but there is a huge gap between the rhetoric and the reality."
-
-**Quelle:** **Gary Hamel**, Professor of London Business School
-
-> Kernbotschaft: Innovation ist die einzige Absicherung gegen Bedeutungslosigkeit; zwischen Anspruch und Wirklichkeit klafft eine große Lücke.
-
----
-
-## Folie 15 — Kurseinführung / Warum dieser Kurs? „Unternehmen reagieren unterschiedlich auf denselben Wandel"
-
-Drei Reaktionsmuster von Unternehmen, jeweils mit Beispiel-Logos:
-- **01 — Etablierte Unternehmen im strategischen Umbau:** „Geschäft erneuern und Strukturen anpassen." [LOGOS: Bosch, Lufthansa, Porsche, VW, Bayer, Tesla]
-- **02 — Innovations- und Wachstumsführer:** „Technologievorsprung in Wachstum übersetzen." [LOGOS: Nvidia, Microsoft, BYD, Xiaomi, Haier, TSMC]
-- **03 — Globale Herausforderer:** „Märkte und Regeln neu definieren." [LOGOS: OpenAI, Anthropic, Klarna, SpaceX, SHEIN]
+Drei Reaktionsmuster von Unternehmen:
+- **01 — Etablierte Unternehmen im strategischen Umbau:** „Geschäft erneuern und Strukturen anpassen."
+- **02 — Innovations- und Wachstumsführer:** „Technologievorsprung in Wachstum übersetzen."
+- **03 — Globale Herausforderer:** „Märkte und Regeln neu definieren."
 
 **Grauer Hervorhebungsbalken:** „Entscheidend ist die Passung zwischen Umfeld, Strategie und Organisation."
 
 ---
 
-## Folie 16 — Kurseinführung / Warum dieser Kurs? „Unternehmensführung verbindet Verstehen, Entscheiden und Verändern"
+## Folie 15 — Kurseinführung / Warum dieser Kurs? „Unternehmensführung heißt: verstehen, entscheiden, gestalten"
 
 Horizontaler Dreischritt-Prozess:
 - **01 — ANALYSIEREN:** Umfeld, Wettbewerb, Ressourcen und Fähigkeiten verstehen
 - **02 — ENTSCHEIDEN:** Optionen bewerten, Prioritäten setzen und Unsicherheit verantworten
 - **03 — GESTALTEN:** Strategie, Geschäftsmodell, Organisation und Führung ausrichten
 
-**Grauer Hervorhebungsbalken:** „Zukunftsfähigkeit entsteht, wenn Analyse und Gestaltung konsequent zusammenwirken."
+**Grauer Hervorhebungsbalken:** „Zukunftsfähigkeit entsteht aus der Verbindung von Verstehen, Entscheiden und Gestalten."
 
 ---
 
-## Folie 17 — Kurseinführung / Leitfrage
+## Folie 16 — Kurseinführung / Leitfrage
 
 **Zentrale Leitfrage des gesamten Kurses (fett, zentriert):**
 > „Wie können Unternehmen heute erfolgreich sein und zugleich langfristig zukunftsfähig bleiben?"
@@ -110,7 +90,7 @@ Zusatz (grau): „Diese Frage verbindet die Themen, Fallanalysen und Diskussione
 
 ---
 
-## Folie 19 — Kurseinführung / Was lernen Sie? „Nach Abschluss der Vorlesung können Sie…" (Lernziele)
+## Folie 18 — Kurseinführung / Was lernen Sie? „Nach Abschluss der Vorlesung können Sie…" (Lernziele)
 
 Fünf Lernziele:
 - **01 — Grundlagen einordnen:** Zentrale Konzepte erklären und miteinander verbinden.
@@ -121,7 +101,7 @@ Fünf Lernziele:
 
 ---
 
-## Folie 27 — Kurseinführung / Padlet: Führung, Strategie & Zukunftsfähigkeit (kuratierter Lernpfad)
+## Folie 26 — Kurseinführung / Padlet: Führung, Strategie & Zukunftsfähigkeit (kuratierter Lernpfad)
 
 Untertitel: „Ein kuratierter Lernpfad: von den Grundlagen über Wettbewerbsvorteile zur Zukunftsfähigkeit"
 
@@ -152,7 +132,7 @@ Fußnote: „Impulse, Klassiker und aktuelle Perspektiven · kein Anspruch auf V
 
 ---
 
-## Folie 28 — Kurseinführung / Padlet: Organisation & Zusammenarbeit (kuratierter Lernpfad)
+## Folie 27 — Kurseinführung / Padlet: Organisation & Zusammenarbeit (kuratierter Lernpfad)
 
 Untertitel: „Ein kuratierter Lernpfad: von wirksamer Teamarbeit über neue Organisationsmodelle zur KI-Transformation"
 
@@ -180,7 +160,7 @@ Fußnote: „Impulse, Klassiker und aktuelle Perspektiven · kein Anspruch auf V
 
 ---
 
-## Folie 29 — Kurseinführung / Padlet: KI – Verantwortung & Risiken (kuratierter Lernpfad)
+## Folie 28 — Kurseinführung / Padlet: KI – Verantwortung & Risiken (kuratierter Lernpfad)
 
 Untertitel: „Ein kuratierter Lernpfad: von wissenschaftlicher Evidenz über menschliche Autonomie zur Governance"
 
@@ -208,7 +188,7 @@ Fußnote: „Impulse, Klassiker und aktuelle Perspektiven · kein Anspruch auf V
 
 ---
 
-## Folie 30 — Kurseinführung / Padlet: KI – Chancen & Gestaltung (kuratierter Lernpfad)
+## Folie 29 — Kurseinführung / Padlet: KI – Chancen & Gestaltung (kuratierter Lernpfad)
 
 Untertitel: „Ein kuratierter Lernpfad: von produktiver Zusammenarbeit über Entdeckung und Kreation zur Physical AI"
 
@@ -230,6 +210,15 @@ Untertitel: „Ein kuratierter Lernpfad: von produktiver Zusammenarbeit über En
 9. INDUSTRIELLER EINSATZ — Humanoide Roboter in der Produktion (BMW Group · 2026)
 
 Fußnote: „Studien, Experimente und aktuelle Anwendungen · kein Anspruch auf Vollständigkeit"
+
+---
+
+## Folie 31 — Kurseinführung / Literaturempfehlungen
+
+- **Strategic Management and Competitive Advantage** — J. Barney, W. Hesterly (2019), Global Edition / 6th edition.
+- **Unternehmensführung – Das internationale Managementwissen. Konzepte – Methoden – Praxis** — K. Macharzina, J. Wolf (2023), 12. Auflage, Springer Gabler.
+- **Strategisches Management – Grundlagen – Prozess – Implementierung** — M. Welge, A. Al-Laham, M. Eulerich (2024), 8. Auflage, Springer Gabler.
+- **Organisation, Management, Unternehmensführung – Theorien, Praxisbeispiele und Kritik** — J. Wolf (2023), 7. Auflage, Springer Gabler.
 
 ---
 
@@ -273,19 +262,19 @@ Zwei Spalten:
 
 ---
 
-## Folie 36 — Kurseinführung / Was leisten Sie? „Transparenz schafft Nachvollziehbarkeit" (Quellen & KI-Nutzung)
+## Folie 36 — Kurseinführung / Was leisten Sie? „KI nutzen – transparent, prüfbar und verantwortlich" (Quellen & KI-Nutzung)
 
 **Quellen**
 1. Unternehmensquellen mit unabhängigen Quellen kombinieren
 2. Aussagen und Daten belegen
 3. Annahmen ausdrücklich kennzeichnen
-4. einheitlich und vollständig nach **APA 7** zitieren
+4. Einheitlich und vollständig nach **APA 7** zitieren
 
 **Generative KI**
 1. Nutzung ist erlaubt
-2. Tool und Zweck im Anhang dokumentieren (vgl. https://www.hwg-lu.de/studium/ki-hwg-lu)
+2. Tool und Zweck im Anhang dokumentieren
 3. Ergebnisse fachlich prüfen
-4. erfundene oder ungeprüfte Quellen gelten als Fehler
+4. Erfundene oder ungeprüfte Quellen gelten als Fehler
 
 **Abschlusszeile (fett):** „Die Verantwortung für Argumentation, Quellen und Schlussfolgerungen bleibt beim Team."
 
@@ -319,15 +308,6 @@ Zwei Spalten:
 
 ---
 
-## Folie 39 — Kurseinführung / Literaturempfehlungen
-
-- **Strategic Management and Competitive Advantage** — J. Barney, W. Hesterly (2019), Global Edition / 6th edition.
-- **Unternehmensführung – Das internationale Managementwissen. Konzepte – Methoden – Praxis** — K. Macharzina, J. Wolf (2023), 12. Auflage, Springer Gabler.
-- **Strategisches Management – Grundlagen – Prozess – Implementierung** — M. Welge, A. Al-Laham, M. Eulerich (2024), 8. Auflage, Springer Gabler.
-- **Organisation, Management, Unternehmensführung – Theorien, Praxisbeispiele und Kritik** — J. Wolf (2023), 7. Auflage, Springer Gabler.
-
----
-
 # Anhang: Verdichteter Kontext für die Projektarbeit (KI-Hinweise)
 
 **Was in diesem Kurs geleistet werden muss (die eigentliche Projektarbeit):**
@@ -349,7 +329,7 @@ Leitgedanke: Verknüpfung statt Methodenschau — Modelle nur einsetzen, wenn si
 
 **Theoretische/Modellhafte Anker im Deck (für fundierte Analysen nutzbar):**
 - PESTLE-/PESTEL-Analyse des Makroumfelds (Folie 13).
-- Managementprozess Analysieren → Entscheiden → Gestalten (Folie 16).
+- Managementprozess Analysieren → Entscheiden → Gestalten (Folie 15).
 - Strategie-Klassiker aus dem Padlet: Porter (Five Forces, What is Strategy?), Barney (Resource-based View), Kim & Mauborgne (Blue Ocean), Christensen (Disruptive Innovation), Reeves & Deimler (Adaptability), Sull et al. (Strategy Execution).
 - Organisationsmodelle: Ambidextrie (O'Reilly & Tushman), Holacracy (Robertson), The End of Bureaucracy (Hamel & Zanini), Buurtzorg, Haier/Zhang Ruimin (Dynamic Shared Ownership / RenDanHeYi), Bayer Dynamic Shared Ownership.
 - KI-Themen: Risiken/Governance (Bengio, EU AI Act), Produktivität (Brynjolfsson et al.), autonome Agenten (Project Vend), Physical AI (Unitree, BMW).
