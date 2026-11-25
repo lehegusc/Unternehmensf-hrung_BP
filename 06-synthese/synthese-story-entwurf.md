@@ -483,10 +483,19 @@ Was müsste wahr sein:
 | Teece (2007), *Strategic Management Journal* | Dynamic Capabilities |
 | Lafley, Martin, Rivkin & Siggelkow (2012), *Harvard Business Review* | Strategieauswahl als Prozess |
 
-**Noch ergänzen (Raschke will Quellen über den Kurs-Kanon hinaus):**
-- Ein Paper zu CEO Turnover und strategischer Konsistenz (z.B. aus *Academy of Management Journal* oder *Strategic Management Journal*), recherchieren über Connected Papers
-- Ein Paper zur Downstream-Raffinerieindustrie (z.B. aus *Energy Policy* oder *Energy Economics*)
-- Collins & Porras (1994), *Built to Last* (Buch) ODER Collins & Porras (1996), *Building Your Company's Vision* (HBR-Artikel). Korrekt zuordnen: Das Buch ist von 1994, der HBR-Artikel von 1996.
+**Ergänzt (Recherche 25.11.2026):**
+
+| Quelle | Verwendung | Journal |
+|---|---|---|
+| Jenter & Lewellen (2021), "Performance-Induced CEO Turnover", *The Review of Financial Studies*, 34(2), 569-617 | CEO-Wechsel und Performance-Sensitivität. Belegt, dass schlechte Performance Turnover auslöst und Turnover-Performance-Sensitivität extrem robust ist. Stützt W1 (Führungsinstabilität). | Top-Tier Finance Journal |
+| Schepker, Kim, Patel, Thatcher & Campion (2017), "CEO succession, strategic change, and post-succession performance: A meta-analysis", *The Leadership Quarterly*, 28(6), 701-720. DOI: 10.1016/j.leaqua.2017.03.001 | Meta-Analyse über 60+ Studien: CEO-Nachfolge ist positiv mit strategischem Wandel und negativ mit kurzfristiger Performance verknüpft. Inside-Nachfolger initiieren weniger strategische Veränderungen und zeigen bessere Langfristperformance. Direkt relevant für BPs Muster (3 CEOs, strategische Inkonsistenz). | LQ = Peer-Reviewed, SSCI-gelistet |
+| Lin & Dang (2017), "Untangling the relationship between strategic consistency and organizational performance: An empirical analysis of moderator variables", *Journal of Management & Organization*, 23(4), 483-503. DOI: 10.1017/jmo.2016.50 | Strategische Konsistenz moderiert durch Umfelddynamik, TMT-Eigenschaften und organisationalen Slack. Stützt unsere Tafuro-Embedding-Argumentation: Konsistenz braucht stabile Führung. | JMO = Peer-Reviewed (Cambridge Core) |
+| He, Sommer & Xie (2011), "The Impact of CEO Turnover on Property-Liability Insurer Performance", *Journal of Risk and Insurance*, 78(3), 583-608. DOI: 10.1111/j.1539-6975.2011.01411.x | CEO-Wechsel beeinflussen Kosteneffizienz und Umsatzeffizienz, besonders bei nicht-routinemäßigen Wechseln. Analogie zu O'Neill (extern, nach Rücktritt). **Einschränkung:** Branchenspezifisch (Versicherungen, nicht Öl), deshalb nur als ergänzende Evidenz verwenden. | JRI = Peer-Reviewed |
+| EMA Partners India (2024), "CEO Shelf-Life Study 2020-2024" (Praxisstudie, kein Journal) | Empirisch: Häufige CEO-Wechsel senken Shareholder Returns. Optimale Amtszeit: 5-10 Jahre. BPs Durchschnitt seit 2020: unter 2 Jahre. | Praxis (als ergänzender Beleg, nicht als Hauptquelle) |
+
+**Noch offen:**
+- Collins & Porras (1994), *Built to Last* (Buch) / Collins & Porras (1996), *Building Your Company's Vision* (HBR-Artikel). **Achtung: Weder das Buch noch der HBR-Artikel sind peer-reviewed. Sie zählen deshalb NICHT zu den 5 bis 7 geforderten Journal-Artikeln.** Als ergänzende Referenz nutzbar, aber kein Ersatz für fehlende Journal-Quellen.
+- Ein Paper zur Downstream-Raffinerieindustrie: Kein direkt passendes Einzelpaper gefunden. Alternative: OECD-Papiere zur Überkapazität in der Stahlindustrie (Navigating the Steel Transition amid Global Excess Capacity, 2026) als Analogie für Überkapazitäts-Exit-Dynamik, wenn nötig.
 
 ### 8.3 Merkliste
 
